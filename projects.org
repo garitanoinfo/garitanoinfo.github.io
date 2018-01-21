@@ -1,0 +1,30 @@
+* Projects
+:PROPERTIES:
+:CUSTOM_ID: projects
+:END:
+
+** Ongoing
+
+**** European projects
+
+#+INCLUDE: "general/ongoing_european_projects.org" :minlevel 2
+
+
+**** Research Council of Norway (NFR)
+
+#+INCLUDE: "general/ongoing_norwegian_projects.org" :minlevel 2
+
+
+**** Basque government projects
+
+#+INCLUDE: "general/ongoing_basque_projects.org" :minlevel 2
+
+
+**** Private funding
+
+#+INCLUDE: "general/ongoing_private_projects.org" :minlevel 2
+
+
+** Finished
+
+ - [[file:projects_finished.org][Finished projects]]

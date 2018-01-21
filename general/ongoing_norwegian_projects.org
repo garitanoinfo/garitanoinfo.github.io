@@ -1,0 +1,8 @@
+ - [[http://its-wiki.no/wiki/DigI:Home][DigI]] - _Non-discriminating access for Digital Inclusion_.
+   - Ref. 267558/H30. 2017-01-01/2019-12-31.
+   - 20.1 MNOK. 10 partners / 8 countries.
+   - Main outcome:
+     - Piloting "free access to information ([[http://its-wiki.no/wiki/InfoInternet][InfoInternet]])" and assessing the impact of [[http://its-wiki.no/wiki/InfoInternet][InfoInternet]]
+     - Digital Health Spot in Tanzania, Phase A: 3 villages
+     - Digital Service Spot in DR Congo, Phase A: 2 villages
+

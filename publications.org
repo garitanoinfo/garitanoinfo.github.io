@@ -1,0 +1,14 @@
+* Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
+
+** Profiles
+
+#+INCLUDE: "general/profiles.org" :minlevel 1
+
+#+INCLUDE: "general/publication_list.org" :minlevel 2
+
+** Previous
+
+ - [[file:publications_old.org][Previous publications]]

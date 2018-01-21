@@ -1,0 +1,15 @@
+#+INCLUDE: "english_header.org" :minlevel 1
+
+#+INCLUDE: "preamble.org" :minlevel 1
+
+#+INCLUDE: "summary.org" :minlevel 1
+
+#+INCLUDE: "publications.org" :minlevel 1
+
+#+INCLUDE: "projects.org" :minlevel 1
+
+#+INCLUDE: "teaching.org" :minlevel 1
+
+#+INCLUDE: "background.org" :minlevel 1
+
+#+INCLUDE: "contact.org" :minlevel 1

@@ -1,0 +1,2 @@
+ - [[http://www.newshield.eu/][nSHIELD]] - _The new SHIELD Architectural Framework for Security, Privacy and Dependability._
+   - ARTEMIS-JU Call 2010. Ref. 269317. 2011-09/2014-12.

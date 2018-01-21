@@ -1,0 +1,53 @@
+#+INCLUDE: "english_header.org" :minlevel 1
+
+** Previous teaching activities
+
+**** Courses
+
+***** [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-seguridad-informatica-online/][Master's Degree in Information Security]]. Mondragon Unibertsitatea.
+
+ - Software security. 2016-2017.
+ - Software security. 2015-2016.
+
+
+***** [[http://www.mondragon.edu/en/studies/bachelor-degree/bachelor-degree-in-computer-engineering/][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
+
+ - Infrastructure and Systems. 2016-2017.
+ - Infrastructure and Systems. 2015-2016.
+
+
+***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data course for Industry.]] SPRI.
+
+ - Course coordination.
+ - Data ingestion. 2016-2017.
+
+
+***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/monta-infraestructura-data-para-empresa/9037.aspx][Monta una Infraestructura Big Data para tu Empresa.]] SPRI.
+
+ - All modules. 2016-2017.
+ - All modules. 2015-2016.
+
+
+***** [[http://www.mondragon.edu/cursos/en/topics/informatics/course/mooc-hacking-etico][MOOC: Etical Hacking]]
+
+
+**** PhD thesis tribunal participation
+
+#+INCLUDE: "general/phd_tribunal.org" :minlevel 2
+
+
+**** Advised Students
+
+#+INCLUDE: "general/advised_students.org" :minlevel 2
+
+
+**** BSc & MSc thesis court participation
+
+#+INCLUDE: "general/thesis_court.org" :minlevel 2
+
+
+#+HTML: <br> <div id="top">
+#+INCLUDE: "general/social_media.org" :minlevel 1
+#+HTML: <br>
+[[file:index.org][back]]
+#+HTML: </div> <br>

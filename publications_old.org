@@ -1,0 +1,11 @@
+#+INCLUDE: "english_header.org" :minlevel 1
+
+** Previous publications
+
+#+INCLUDE: "general/publication_list_old.org" :minlevel 3
+
+#+HTML: <br> <div id="top">
+#+INCLUDE: "general/social_media.org" :minlevel 1
+#+HTML: <br>
+[[file:index.org][back]]
+#+HTML: </div> <br>

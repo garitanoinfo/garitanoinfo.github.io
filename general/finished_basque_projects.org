@@ -1,0 +1,14 @@
+ - BID3ABI - _Big Data para RIS3 2016._
+   - Elkartek. Ref. KK-2016/00096. 2016-04-01/2016-12-31.
+ - KEA - _Knowledge for EMULAB-based Applications._
+   - DFG I+D. Ref. 0/0. 2015-09-01/2016-09-30.
+ - MY_STUDENT - _Seguimiento y análisis del desempeño y aprendizaje del alumno._
+   - DFG Aprendizaje. Ref. IGB-41/2015. 2015-01-01/2016-06-06.
+ - BID3A - _Big Data para RIS3._
+   - Elkartek. Ref. KK-2015/00080. 2015-01-01/2015-12-31.
+ - EQUIPE - _Equipe. Banco de pruebas de redes de comunicaciones y procesamiento de datos._
+   - DFG Infraestructuras. Ref. 0/0. 2014-09-01/2015-09-30.
+ - CONCHO - _CONtrol Systems Check for Operational availability._
+   - Universidad-Empresa. Ref. UE09+/97. 2010-01-01/2010-12-31.
+ - SeCADA - _Desarrollo de Herramientas para Proteger de Manera Robusta y Fiable las Redes SCADA._
+   - Innotek. Ref. IT-2009/00568. 2008-04-01/2009-12-31.

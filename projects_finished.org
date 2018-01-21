@@ -1,0 +1,34 @@
+#+INCLUDE: "english_header.org" :minlevel 1
+
+** Finished projects
+
+**** European projects
+
+#+INCLUDE: "general/finished_european_projects.org" :minlevel 2
+
+
+**** Research Council of Norway (NFR)
+
+#+INCLUDE: "general/finished_norwegian_projects.org" :minlevel 2
+
+
+**** Basque government projects
+
+#+INCLUDE: "general/finished_basque_projects.org" :minlevel 2
+
+
+**** Spanish government projects
+
+#+INCLUDE: "general/finished_spanish_projects.org" :minlevel 2
+
+
+**** Private funding
+
+#+INCLUDE: "general/finished_private_projects.org" :minlevel 2
+
+
+#+HTML: <br> <div id="top">
+#+INCLUDE: "general/social_media.org" :minlevel 1
+#+HTML: <br>
+[[file:index.org][back]]
+#+HTML: </div> <br>

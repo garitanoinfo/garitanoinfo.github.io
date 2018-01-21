@@ -1,0 +1,6 @@
+ - Leire Abarrategui Martinez. _Data Analysis for Health Learning System_
+   - For /Bachelor's Degree in Biomedical Engineering by Mondragon Unibertsitatea./ 2018
+ - Oier Saizar Ugarte. _Fine Grained Access Control and Data Cipher for Apache Hadoop Ecosystem_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2018
+ - Mikel Retolaza Coranti. _Data collection, Analysis and Visualization development and Infrastructure Management_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2018

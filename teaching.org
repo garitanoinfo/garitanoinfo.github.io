@@ -1,0 +1,46 @@
+* Teaching
+:PROPERTIES:
+:CUSTOM_ID: teaching
+:END:
+
+*** Courses
+
+***** [[http://www.mondragon.edu/es/estudios/master/master-universitario-en-tecnologias-biomedicas/][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
+
+ - Bioinformatics and data analysis. 2017-2018.
+
+
+***** [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Master's Degree in Cybersecurity]]. Mondragon Unibertsitatea.
+
+ - OS security. 2017-2018.
+ - Software security. 2017-2018.
+
+
+***** [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-seguridad-informatica-online/][Master's Degree in Information Security]]. Mondragon Unibertsitatea.
+
+ - Software security. 2017-2018.
+
+
+***** [[http://www.mondragon.edu/en/studies/bachelor-degree/bachelor-degree-in-computer-engineering/][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
+
+ - Infrastructure and Systems. 2017-2018.
+
+
+***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data course for Industry.]] SPRI.
+
+ - Data ingestion. 2017-2018.
+
+
+*** PhD students
+
+#+INCLUDE: "general/phd_students.org" :minlevel 2
+
+
+*** BSc & MSc students advice
+
+#+INCLUDE: "general/bsc_msc_students.org" :minlevel 2
+
+
+** Previous
+
+ - [[file:previous_teaching.org][Previous teaching activities]]

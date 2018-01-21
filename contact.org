@@ -1,0 +1,26 @@
+* Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
+
+#+BEGIN_HTML
+<a href="http://www.mondragon.edu/en/about-us/directory/fe/telematics/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
+<a href="http://www.mondragon.edu/en/phs/research/research-teams/telematics" target="_blank" title="Data Analysis and Cybersecurity research team">Data Analysis and Cybersecurity</a> <br>
+Electronics and Computing Department <br>
+Mondragon University - Faculty of Engineering <br>
+Goiru, 2; E-20500 Arrasate - Mondragón (Gipuzkoa), Spain <br>
+Phone: +(34) 647503682 / +(34) 943794700 + Ext. 8119 <br>
+<a href="http://www.mondragon.edu/en/" target="_blank" title="Mondragon Unibertsitatea">www.mondragon.edu</a> / <a href="http://www.garitano.info" target="_blank" title="Iñaki Garitano">www.garitano.info</a> <br>
+<br>
+<div id="top">
+#+END_HTML
+
+#+INCLUDE: "general/social_media.org" :minlevel 1
+
+#+BEGIN_HTML
+<br>
+<br>
+<a href="#">top</a>
+</div>
+<br>
+#+END_HTML
