@@ -3,6 +3,10 @@
 :CUSTOM_ID: publications
 :END:
 
+** Teknopolis (es)
+
+#+INCLUDE: "general/teknopolis.org" :minlevel 1
+
 ** Profiles
 
 #+INCLUDE: "general/profiles.org" :minlevel 1

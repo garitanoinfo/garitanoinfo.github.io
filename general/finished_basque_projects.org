@@ -1,3 +1,11 @@
+ - PLENISENSE - _Desarrollo de una Plataforma en la Nube para el Despliegue de Soluciones de Negocio Basadas en Internet de las Cosas (IoT)._
+   - Ref. IG-2015/01090 - ZL-2016/00536 - ZL-2017/00089. 2015-04-01/2017-12-31.
+ - CENTRAL CLOUD - _Calderas de Biomasa y Máquinas de Frío Conectadas a un Centro de Control en la Nube Mediante Internet Industrial._
+   - Ref. IG-2015/00418 - ZL-2016/00050 - ZL-2017/00091. 2015-04-01/2017-12-31.
+ - CARDIODATA - _Sistema Big Data de Soporte a la Decisión para el Tratamiento de Pacientes con Insuficiencia Cardiaca._
+   - PCyT Mondragon. Ref. -. 2016-04-01/2017-12-31.
+ - SPA - _Sistemas Productivos Adaptativos._
+   - DFG I+D. Ref. Exp. 94/16. 2016-09-01/2017-09-30.
  - BID3ABI - _Big Data para RIS3 2016._
    - Elkartek. Ref. KK-2016/00096. 2016-04-01/2016-12-31.
  - KEA - _Knowledge for EMULAB-based Applications._
