@@ -7,5 +7,3 @@
   - Hacia un Internet básico al alcance de todos (Basic Internet project)
     - [[http://teknopolis.elhuyar.eus/reportajes/hacia-un-internet-basico-al-alcance-de-todos/][Teknopolis]]
     - [[http://www.eitb.tv/es/video/teknopolis-es--2015-2016/5309/105590/tecnologia/][EITB]]
-
-#+HTML: <center><iframe src="http://www.eitb.tv/es/embed/teknopolis-es--2017-2018/5939/137378/tecnologia-para-el-corazon/" width="552" allowfullscreen="" height="450" frameborder="0" scrolling="no"></iframe>&emsp;<iframe src="http://www.eitb.tv/es/embed/teknopolis-es--2015-2016/5309/105590/tecnologia/" width="552" allowfullscreen="" height="450" frameborder="0" scrolling="no"></iframe></center>
