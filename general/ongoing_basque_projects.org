@@ -1,7 +1,5 @@
  - SEKUTEK - _Segurtasun teknologiak_
    - Elkartek. Ref. KK-2017/00044. 2017-03-01/2018-12-31.
- - OMEGA-3 - _Motor de Procesamiento de Lenguaje Natural para el Enriquecimiento de Datos Sanitarios_
-   - Elkartek. Ref. KK-2017/00065. 2017-03-01/2017-12-31.
  - POSIC - _Nuevas aproximaciones para tecnologías de Ciberseguridad Industrial_
    - DFG I+D. Ref. Exp. 93/17. 2017-05-01/2018-09-30.
  - SISI - _Sistemas Inteligentes para Sistemas Industriales._
@@ -10,5 +8,3 @@
    - Hazitek estratégico. Ref. ZE-2016/00020. 2016-07/2018-12.
  - OPTIMUS - _Solución Integral de Analítica Avanzada de Datos para una Gestión y Asistencia Sanitaria Óptima._
    - Hazitek Competitivo. Ref. ZL-2016/00910. 2016-04-01/2018-12-31.
- - HEALSYSII - _Técnicas de Ciencia de Datos para el Desarrollo de Sistemas Sanitarios de Aprendizaje Continuo (Learning Health Systems)._
-   - GV-SALUD-Biociencias. Ref. 2016222007. 2016-01-01/2017-12-31.

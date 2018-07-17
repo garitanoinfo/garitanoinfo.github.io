@@ -2,8 +2,6 @@
    - H2020-IND-CE-2016-17, FoF-09-2017, IA. Ref. 766994. 2017-10-01/2020-09-30.
  - [[https://productive40.eu/][Productive 4.0]] - _Electronics and ICT as Enabler for Digital Industry and Optimized Supply Chain Management Covering the Entire Product Lifecycle._
    - H2020-ECSEL-2016-2-IA. Ref. 737459. 2017-05-01/2020-04-30.
- - [[http://mantis-project.eu/][MANTIS]] - _Cyber Physical System based Proactive Collaborative Maintenance._
-   - ECSEL-2014-1. Ref. 662189. 2015-05-01/2018-04-30.
  - [[https://mc-suite.eu/][MC-SUITE]] - _ICT Powered Machining Software Suite._
    - H2020-FoF-2015. Ref. 680478. 2015-10-01/2018-09-30.
  - [[https://www.servroll.eu/][SERVROLL]] - _New Servo-Control, Process Design and Set-up Strategies for Holistic Optimization of Roll Forming._

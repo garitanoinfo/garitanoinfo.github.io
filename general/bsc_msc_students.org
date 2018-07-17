@@ -1,4 +1,4 @@
- - Peru Otaño Ceballos. _Machine Learning Techniques Application for Deception Solutions_
+ - Beñat Apaolaza Diaz. _Safety and Security event management system deployment_
    - For /Master's Degree in Cybersecurity./ 2018
  - Mikel Tamayo Rodriguez. _Cybersecurity for Installations_
    - For /Master's Degree in Cybersecurity./ 2018

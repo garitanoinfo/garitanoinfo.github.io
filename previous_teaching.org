@@ -31,6 +31,10 @@
 ***** [[http://www.mondragon.edu/cursos/en/topics/informatics/course/mooc-hacking-etico][MOOC: Etical Hacking]]
 
 
+**** PhD students advice
+
+ - Javier Fernandez Anakabe. _Intensive Data-Driven Approaches to Aid in Decision-Making of Proactive Maintenance_
+
 **** PhD thesis tribunal participation
 
 #+INCLUDE: "general/phd_tribunal.org" :minlevel 2

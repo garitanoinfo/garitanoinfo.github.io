@@ -1,3 +1,2 @@
  - Dani Reguera Bakhache. _Data-driven framework for optimizing Human-Computer Interaction_
- - Javier Fernandez Anakabe. _Intensive Data-Driven Approaches to Aid in Decision-Making of Proactive Maintenance_
  - Markel Sainz Oruna. _Software Defined Networking Approaches for Security in Industrial Control Systems_

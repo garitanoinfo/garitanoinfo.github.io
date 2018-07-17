@@ -1,3 +1,7 @@
+ - OMEGA-3 - _Motor de Procesamiento de Lenguaje Natural para el Enriquecimiento de Datos Sanitarios_
+   - Elkartek. Ref. KK-2017/00065. 2017-03-01/2017-12-31.
+ - HEALSYSII - _Técnicas de Ciencia de Datos para el Desarrollo de Sistemas Sanitarios de Aprendizaje Continuo (Learning Health Systems)._
+   - GV-SALUD-Biociencias. Ref. 2016222007. 2016-01-01/2017-12-31.
  - PLENISENSE - _Desarrollo de una Plataforma en la Nube para el Despliegue de Soluciones de Negocio Basadas en Internet de las Cosas (IoT)._
    - Ref. IG-2015/01090 - ZL-2016/00536 - ZL-2017/00089. 2015-04-01/2017-12-31.
  - CENTRAL CLOUD - _Calderas de Biomasa y Máquinas de Frío Conectadas a un Centro de Control en la Nube Mediante Internet Industrial._
