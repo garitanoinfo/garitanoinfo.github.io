@@ -1,4 +1,6 @@
 ** 2018
+- Enaitz Ezpeleta, Mikel Iturbe, Iñaki Garitano, Iñaki Mendizabal, Urko Zurutuza. _A Mood Analysis on Youtube Comments and a Method for Improved Social Spam Detection_ In /Hybrid Artificial Intelligent Systems/ 2018 ([[file:../publications/ezpeleta2018mood.pdf][PDF]], [[file:../publications/ezpeleta2018mood.bib][BibTeX]], [[http://doi.org/10.1007/978-3-319-92639-1_43][link]])
+- Ekhi Zugasti, Mikel Iturbe, Iñaki Garitano, Urko Zurutuza. _Null is Not Always Empty: Monitoring the Null Space for Field-Level Anomaly Detection in Industrial IoT Environments_ In /Proceedings of 2018 IEEE Global Internet of Things Summit (GIoTS)/ 2018 ([[file:../publications/zugasti2018null.pdf][PDF]], [[file:../publications/zugasti2018null.bib][BibTeX]], [[file:../publications/zugasti2018null_slides.pdf][slides]])
 - Felix Larrinaga, Javier Fernandez, Ekhi Zugasti, Iñaki Garitano, Urko Zurutuza, Mikel Anasagasti, Mikel Mondragon. _Implementation of a Reference Architecture for Cyber Physical Systems to support Condition Based Maintenance_ In /International Conference on Control, Decision and Information Technologies (CoDIT)/ 2018 ([[file:../publications/larrinaga2018implementation.pdf][PDF]], [[file:../publications/larrinaga2018implementation.bib][BibTeX]], [[http://www.mantis-project.eu/wp-content/uploads/2015/10/implementation-reference-architecture.pdf][link]])
 
 
