@@ -10,7 +10,7 @@
  - Software security. 2015-2016.
 
 
-***** [[http://www.mondragon.edu/en/studies/bachelor-degree/bachelor-degree-in-computer-engineering/][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
+***** [[https://www.mondragon.edu/en/bachelor-degree-computer-engineering][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
 
  - Infrastructure and Systems. 2016-2017.
  - Infrastructure and Systems. 2015-2016.

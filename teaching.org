@@ -5,7 +5,7 @@
 
 *** Courses
 
-***** [[http://www.mondragon.edu/es/estudios/master/master-universitario-en-tecnologias-biomedicas/][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
+***** [[https://www.mondragon.edu/en/master-degree-biomedical-technologies][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
 
  - Bioinformatics and data analysis. 2017-2018.
 
@@ -21,7 +21,7 @@
  - Software security. 2017-2018.
 
 
-***** [[http://www.mondragon.edu/en/studies/bachelor-degree/bachelor-degree-in-computer-engineering/][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
+***** [[https://www.mondragon.edu/en/bachelor-degree-computer-engineering][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
 
  - Infrastructure and Systems. 2017-2018.
 
