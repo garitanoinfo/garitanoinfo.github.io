@@ -1,18 +1,9 @@
-* Publications
-:PROPERTIES:
-:CUSTOM_ID: publications
-:END:
+#+INCLUDE: "static/language_specific/publications_title.org" :minlevel 1
 
-** Teknopolis (es)
+#+INCLUDE: "static/language_specific/publications_skeleton_profiles.org" :minlevel 2
 
-#+INCLUDE: "general/teknopolis.org" :minlevel 1
+#+INCLUDE: "static/common/publications_profiles.org" :minlevel 2
 
-** Profiles
+#+INCLUDE: "variable/common/publications_list.org" :minlevel 2
 
-#+INCLUDE: "general/profiles.org" :minlevel 1
-
-#+INCLUDE: "general/publication_list.org" :minlevel 2
-
-** Previous
-
- - [[file:publications_old.org][Previous publications]]
+#+INCLUDE: "static/language_specific/publications_skeleton_old.org" :minlevel 2

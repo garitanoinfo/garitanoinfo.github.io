@@ -1,0 +1,33 @@
+#+INCLUDE: "header.org" :minlevel 1
+
+#+INCLUDE: "static/language_specific/projects_old_title.org" :minlevel 1
+
+#+INCLUDE: "static/language_specific/projects_skeleton_europe.org" :minlevel 2
+
+#+INCLUDE: "variable/common/projects_old_european.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/projects_skeleton_nfr.org" :minlevel 2
+
+#+INCLUDE: "variable/common/projects_old_norwegian.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/projects_skeleton_basque.org" :minlevel 2
+
+#+INCLUDE: "variable/common/projects_old_basque.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/projects_skeleton_spanish.org" :minlevel 2
+
+#+INCLUDE: "variable/common/projects_old_spanish.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/projects_skeleton_private.org" :minlevel 2
+
+#+INCLUDE: "variable/common/projects_old_private.org" :minlevel 2
+
+#+HTML: <br> <div id="top">
+
+#+INCLUDE: "social_media.org" :minlevel 1
+
+#+HTML: <br>
+
+#+INCLUDE: "static/language_specific/back.org" :minlevel 1
+
+#+HTML: </div> <br>

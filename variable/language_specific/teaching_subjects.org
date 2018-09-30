@@ -1,0 +1,8 @@
+- [[https://www.mondragon.edu/en/master-degree-biomedical-technologies][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
+  - Bioinformatics and data analysis. 2018-2019.
+
+- [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Master's Degree in Cybersecurity]]. Mondragon Unibertsitatea.
+  - Software security. 2018-2019.
+
+- [[https://www.mondragon.edu/en/bachelor-degree-computer-engineering][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
+  - Infrastructure and Systems. 2018-2019.

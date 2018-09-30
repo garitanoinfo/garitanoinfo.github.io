@@ -1,8 +1,8 @@
 #+TITLE: Iñaki Garitano
 #+AUTHOR: Iñaki Garitano
 #+DATE: {{{time(%Y-%m-%d)}}}
-#+DESCRIPTION: Personal web page of Iñaki Garitano
-#+KEYWORDS: garitano, personal, cybersecurity, security, bigdata, analytics, machine-learning
+#+INCLUDE: "static/language_specific/header_description.org" :minlevel 1
+#+KEYWORDS: garitano, personal, cybersecurity, security, data science, machine learning, data analysis, bigdata
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+OPTIONS: toc:nil num:nil ^:nil timestamp:nil
@@ -26,7 +26,7 @@
 #+HTML_HEAD: <meta name="msapplication-TileColor" content="#ffffff">
 #+HTML_HEAD: <meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
 #+HTML_HEAD: <meta name="theme-color" content="#ffffff"> 
-#+HTML_HEAD: <meta name="google-site-verification" content="-hpVWop3omK3CFeXcHo9YS2iTGQbXNN-UT4KnpZBYis" />
+#+HTML_HEAD: <meta name="google-site-verification" content="khdE_7cHxDNWRaHLVn9Shb0i7R1csn7e4PX24O8xKrg" />
 #+HTML_HEAD: <meta name="p:domain_verify" content="cf19f68142ba96d9d784d0d0f9686ce2"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/igaritano.css" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/academicons.min.css" />

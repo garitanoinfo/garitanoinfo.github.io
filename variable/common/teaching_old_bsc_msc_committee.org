@@ -1,0 +1,24 @@
+ - Ana Carrasco Menoyo. _Implantación de Plataforma "Field Service Solution" para el Registro y Gestión de Incidencias_
+   - For /Bachelor's Degree in Biomedical Engineering by Mondragon Unibertsitatea./ 2018
+ - Gorka Olalde Mendia. _About the Quality of Randomness on the TOR Network_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2017
+ - Ander Gabilondo Intxaurraga. _Optimizing Machinery Maintenance Using Attribute Oriented Induction for Root Cause Analysis_
+   - For /Master's Degree in Embedded Systems by Mondragon Unibertsitatea./ 2017
+ - Markel Sainz Oruna. _Software Defined Networking Approaches for Security in Industrial Control Systems_
+   - For /Master's Degree in Embedded Systems by Mondragon Unibertsitatea./ 2017
+ - Unai Gorostegui Gabiria. _Automatic Integration of Cyber Physical Condition Monitoring Systems as part of Computerized Maintenance Management Systems_
+   - For /Master's Degree in Embedded Systems by Mondragon Unibertsitatea./ 2017
+ - Maria Estibaliz Arambarri Cincunegui. _Improving The Pattern Learning System Integrating The Reasoning System_
+   - For /Bachelor's Degree in Biomedical Engineering by Mondragon Unibertsitatea./ 2017
+ - Mikel Mateo Mesonero. _Weight Control Application For People With Down Syndrome Based On Activity Monitoring_
+   - For /Bachelor's Degree in Biomedical Engineering by Mondragon Unibertsitatea./ 2017
+ - Jon Zarate Andres. _Load-Time Randomization for Low-End Embedded Systems_ (Intel)
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2016
+ - David Fuentes Iglesias _Colaboración Ciclo de Vida Software del Framework de Desarrollo de Aplicaciones Web AWE_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2016
+ - Borja Unda Arriola. _Migración del Producto FIT a una Plataforma Web_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2016
+ - Mario de Jesus Lozano Gonzalez. _Análisis y Prototipo de OpenStack: Plataforma para la Genaración de Clouds_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2016
+ - Eriz Lopetegi Fernandez. _Txantiloi Biometrikoen Babesa Enkriptazio Homomorfikoa erabiliz_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2015

@@ -1,0 +1,33 @@
+#+INCLUDE: "header.org" :minlevel 1
+
+#+INCLUDE: "static/language_specific/teaching_old_title.org" :minlevel 1
+
+#+INCLUDE: "static/language_specific/teaching_skeleton_subjects.org" :minlevel 2
+
+#+INCLUDE: "variable/language_specific/teaching_old_subjects.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/teaching_skeleton_phd.org" :minlevel 2
+
+#+INCLUDE: "variable/common/teaching_old_phd.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/teaching_skeleton_thesis_committee.org" :minlevel 2
+
+#+INCLUDE: "variable/common/teaching_old_thesis_committee.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/teaching_skeleton_advised_students.org" :minlevel 2
+
+#+INCLUDE: "variable/common/teaching_old_advised_students.org" :minlevel 2
+
+#+INCLUDE: "static/language_specific/teaching_skeleton_bsc_msc_committee.org" :minlevel 2
+
+#+INCLUDE: "variable/common/teaching_old_bsc_msc_committee.org" :minlevel 2
+
+#+HTML: <br> <div id="top">
+
+#+INCLUDE: "social_media.org" :minlevel 2
+
+#+HTML: <br>
+
+#+INCLUDE: "static/language_specific/back.org" :minlevel 2
+
+#+HTML: </div> <br>

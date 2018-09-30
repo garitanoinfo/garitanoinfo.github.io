@@ -1,10 +1,12 @@
-#+INCLUDE: "english_header.org" :minlevel 1
+#+INCLUDE: "header.org" :minlevel 1
 
-#+INCLUDE: "preamble.org" :minlevel 1
+#+INCLUDE: "title.org" :minlevel 1
 
-#+INCLUDE: "summary.org" :minlevel 1
+#+INCLUDE: "description.org" :minlevel 1
 
 #+INCLUDE: "publications.org" :minlevel 1
+
+#+INCLUDE: "media.org" :minlevel 1
 
 #+INCLUDE: "projects.org" :minlevel 1
 
@@ -13,3 +15,7 @@
 #+INCLUDE: "background.org" :minlevel 1
 
 #+INCLUDE: "contact.org" :minlevel 1
+
+#+INCLUDE: "social_media.org" :minlevel 1
+
+#+INCLUDE: "static/language_specific/begin.org" :minlevel 1

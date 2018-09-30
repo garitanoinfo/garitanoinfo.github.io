@@ -1,0 +1,26 @@
+- [[https://www.mondragon.edu/en/master-degree-biomedical-technologies][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
+ - Bioinformatics and data analysis. 2017-2018.
+
+- [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Master's Degree in Cybersecurity]]. Mondragon Unibertsitatea.
+ - OS security. 2017-2018.
+ - Software security. 2017-2018.
+
+- [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-seguridad-informatica-online/][Master's Degree in Information Security]]. Mondragon Unibertsitatea.
+ - Software security. 2016-2017.
+ - Software security. 2015-2016.
+
+- [[https://www.mondragon.edu/en/bachelor-degree-computer-engineering][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
+ - Infrastructure and Systems. 2017-2018.
+ - Infrastructure and Systems. 2016-2017.
+ - Infrastructure and Systems. 2015-2016.
+
+- [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data course for Industry.]] SPRI.
+ - Data ingestion. 2017-2018.
+ - Course coordination.
+ - Data ingestion. 2016-2017.
+
+- [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/monta-infraestructura-data-para-empresa/9037.aspx][Monta una Infraestructura Big Data para tu Empresa.]] SPRI.
+ - All modules. 2016-2017.
+ - All modules. 2015-2016.
+
+- [[http://www.mondragon.edu/cursos/en/topics/informatics/course/mooc-hacking-etico][MOOC: Etical Hacking]]

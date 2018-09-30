@@ -1,11 +1,15 @@
-#+INCLUDE: "english_header.org" :minlevel 1
+#+INCLUDE: "header.org" :minlevel 1
 
-** Previous publications
+#+INCLUDE: "static/language_specific/publications_old_title.org" :minlevel 3
 
-#+INCLUDE: "general/publication_list_old.org" :minlevel 3
+#+INCLUDE: "variable/common/publications_old_list.org" :minlevel 4
 
 #+HTML: <br> <div id="top">
-#+INCLUDE: "general/social_media.org" :minlevel 1
+
+#+INCLUDE: "social_media.org" :minlevel 1
+
 #+HTML: <br>
-[[file:index.org][back]]
+
+#+INCLUDE: "static/language_specific/back.org" :minlevel 1
+
 #+HTML: </div> <br>

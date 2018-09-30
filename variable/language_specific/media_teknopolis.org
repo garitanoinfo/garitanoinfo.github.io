@@ -1,0 +1,9 @@
+- 2018
+  - Big Data al servicio del corazón (Optimus project)
+    - [[http://teknopolis.elhuyar.eus/reportajes/big-data-al-servicio-del-corazon/][Teknopolis]]
+    - [[http://www.eitb.tv/es/video/teknopolis-es--2017-2018/5939/137378/tecnologia-para-el-corazon/][EITB]]
+
+- 2016
+  - Hacia un Internet básico al alcance de todos (Basic Internet project)
+    - [[http://teknopolis.elhuyar.eus/reportajes/hacia-un-internet-basico-al-alcance-de-todos/][Teknopolis]]
+    - [[http://www.eitb.tv/es/video/teknopolis-es--2015-2016/5309/105590/tecnologia/][EITB]]

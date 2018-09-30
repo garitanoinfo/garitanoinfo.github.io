@@ -15,17 +15,4 @@
 </tr>
 </table>
 </div>
-
-<div id="eff">
-<table><tr><td><a href="http://www.eff.org" target="_blank" title="Electronic Frontier Foundation"><img id="eff_href" src="images/eff.gif"></a></td></tr></table>
-</div>
-
-<div class="figure">
-<table id="profile"><tr><td></td></tr></table>
-</div>
-
-<div class="custom_title" id="title">
 #+END_HTML
-{{{title}}}
-#+HTML: </div>
-{{{toc}}}

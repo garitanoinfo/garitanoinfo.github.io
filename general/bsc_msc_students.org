@@ -1,12 +1,1 @@
- - Beñat Apaolaza Diaz. _Safety and Security event management system deployment_
-   - For /Master's Degree in Cybersecurity./ 2018
- - Mikel Tamayo Rodriguez. _Cybersecurity for Installations_
-   - For /Master's Degree in Cybersecurity./ 2018
- - Julen Balzategui Oruna. _Advanced Analytics in Digital Image Processing_
-   - For /Master's Degree in Embedded Systems./ 2018
- - Leire Abarrategui Martinez. _Data Analysis for Health Learning System_
-   - For /Bachelor's Degree in Biomedical Engineering by Mondragon Unibertsitatea./ 2018
- - Oier Saizar Ugarte. _Fine Grained Access Control and Data Cipher for Apache Hadoop Ecosystem_
-   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2018
- - Mikel Retolaza Coranti. _Data collection, Analysis and Visualization development and Infrastructure Management_
-   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2018
+ - None.

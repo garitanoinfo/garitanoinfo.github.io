@@ -1,46 +1,15 @@
-* Teaching
-:PROPERTIES:
-:CUSTOM_ID: teaching
-:END:
+#+INCLUDE: "static/language_specific/teaching_title.org" :minlevel 1
 
-*** Courses
+#+INCLUDE: "static/language_specific/teaching_skeleton_subjects.org" :minlevel 2
 
-***** [[https://www.mondragon.edu/en/master-degree-biomedical-technologies][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
+#+INCLUDE: "variable/language_specific/teaching_subjects.org" :minlevel 2
 
- - Bioinformatics and data analysis. 2017-2018.
+#+INCLUDE: "static/language_specific/teaching_skeleton_phd.org" :minlevel 2
 
+#+INCLUDE: "variable/common/teaching_phd.org" :minlevel 2
 
-***** [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Master's Degree in Cybersecurity]]. Mondragon Unibertsitatea.
+#+INCLUDE: "static/language_specific/teaching_skeleton_bsc_msc.org" :minlevel 2
 
- - OS security. 2017-2018.
- - Software security. 2017-2018.
+#+INCLUDE: "variable/common/teaching_bsc_msc.org" :minlevel 2
 
-
-***** [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-seguridad-informatica-online/][Master's Degree in Information Security]]. Mondragon Unibertsitatea.
-
- - Software security. 2017-2018.
-
-
-***** [[https://www.mondragon.edu/en/bachelor-degree-computer-engineering][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
-
- - Infrastructure and Systems. 2017-2018.
-
-
-***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data course for Industry.]] SPRI.
-
- - Data ingestion. 2017-2018.
-
-
-*** PhD students
-
-#+INCLUDE: "general/phd_students.org" :minlevel 2
-
-
-*** BSc & MSc students advice
-
-#+INCLUDE: "general/bsc_msc_students.org" :minlevel 2
-
-
-** Previous
-
- - [[file:previous_teaching.org][Previous teaching activities]]
+#+INCLUDE: "static/language_specific/teaching_skeleton_old.org" :minlevel 2

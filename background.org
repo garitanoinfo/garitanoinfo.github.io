@@ -1,32 +1,8 @@
-* Background
-:PROPERTIES:
-:CUSTOM_ID: background
-:END:
+#+INCLUDE: "static/language_specific/background_title.org" :minlevel 1
 
 #+ATTR_HTML: target="_blank" title="LinkedIn"
-[[https://www.linkedin.com/in/igaritano][LinkedIn profile]].
+[[https://www.linkedin.com/in/igaritano][LinkedIn]]
 
-** Stays in foreign research centers
-:PROPERTIES:
-:CUSTOM_ID: stays
-:END:
+#+INCLUDE: "static/language_specific/background_skeleton_stays_abroad.org" :minlevel 2
 
-#+BEGIN_HTML 
-<p>
-<u>UNIK – Universitetssenteret på Kjeller</u> <br>
-Kjeller, Norway<br>
-06/03/2014 - 31/03/2015 <br>
-<a href="http://www.unik.no" target="_blank" title="Universitetssenteret på Kjeller">Universitetssenteret på Kjeller</a> <br>
-Postdoc.
-</p>
-#+END_HTML
-
-#+BEGIN_HTML 
-<p>
-<u>Institute for the Protection and Security of the Citizen (IPSC), Joint Research Centre (JRC), European Commission</u> <br>
-Ispra, Italia <br>
-01/10/2011 - 31/03/2012 <br>
-<a href="https://web.archive.org/web/20130916005425/http://ipsc.jrc.ec.europa.eu/" target="_blank" title="Institute for the Protection and Security of the Citizen (IPSC)">Institute for the Protection and Security of the Citizen (IPSC)</a> <br>
-Design, implementation and validation of an algorithm that creates network traffic models based on PLC program description. Researching user interaction disruptions by Denial-of-Service attacks in industrial networks, by conducting real experiments that affected normal industrial network flow. To this end, several experiments have been conducted using the Experimental Platform for Internet Contingencies (EPIC) based on Emulab. Moreover, ICS/SCADA components (PLCs and HMIs) have been programmed following several industrial processes, in order to build a testbed to conduct the mentioned work.
-</p>
-#+END_HTML
+#+INCLUDE: "variable/common/background_stays_abroad.org" :minlevel 2

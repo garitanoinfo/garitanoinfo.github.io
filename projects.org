@@ -1,30 +1,19 @@
-* Projects
-:PROPERTIES:
-:CUSTOM_ID: projects
-:END:
+#+INCLUDE: "static/language_specific/projects_title.org" :minlevel 1
 
-** Ongoing
+#+INCLUDE: "static/language_specific/projects_skeleton_europe.org" :minlevel 2
 
-**** European projects
+#+INCLUDE: "variable/common/projects_european.org" :minlevel 2
 
-#+INCLUDE: "general/ongoing_european_projects.org" :minlevel 2
+#+INCLUDE: "static/language_specific/projects_skeleton_nfr.org" :minlevel 2
 
+#+INCLUDE: "variable/common/projects_nfr.org" :minlevel 2
 
-**** Research Council of Norway (NFR)
+#+INCLUDE: "static/language_specific/projects_skeleton_basque.org" :minlevel 2
 
-#+INCLUDE: "general/ongoing_norwegian_projects.org" :minlevel 2
+#+INCLUDE: "variable/common/projects_basque.org" :minlevel 2
 
+#+INCLUDE: "static/language_specific/projects_skeleton_private.org" :minlevel 2
 
-**** Basque government projects
+#+INCLUDE: "variable/common/projects_private.org" :minlevel 2
 
-#+INCLUDE: "general/ongoing_basque_projects.org" :minlevel 2
-
-
-**** Private funding
-
-#+INCLUDE: "general/ongoing_private_projects.org" :minlevel 2
-
-
-** Finished
-
- - [[file:projects_finished.org][Finished projects]]
+#+INCLUDE: "static/language_specific/projects_skeleton_old.org" :minlevel 2
