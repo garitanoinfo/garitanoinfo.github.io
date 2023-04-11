@@ -6,3 +6,5 @@
 #+INCLUDE: "static/language_specific/background_skeleton_stays_abroad.org" :minlevel 2
 
 #+INCLUDE: "variable/common/background_stays_abroad.org" :minlevel 2
+
+#+INCLUDE: "variable/language_specific/background_training.org" :minlevel 2

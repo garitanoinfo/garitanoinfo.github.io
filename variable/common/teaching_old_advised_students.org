@@ -1,3 +1,7 @@
+ - Mikel Amuchastegui Zubizarreta. _Lamassu - PKI para IoT_
+   - As work and study sharing intern for Indaba, LKS S.Coop. 2019-2020
+ - Imanol Rubio Unanue. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_
+   - As work and study sharing intern under VARIoT public funding European research project. 2019-2020
  - Beñat Apaolaza Diaz. _Safety and Security event management system deployment_
    - For /Master's Degree in Cybersecurity./ 2018
  - Mikel Tamayo Rodriguez. _Cybersecurity for Installations_

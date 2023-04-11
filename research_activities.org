@@ -1,0 +1,5 @@
+#+INCLUDE: "static/language_specific/research_activities_title.org" :minlevel 1
+
+#+INCLUDE: "publications.org" :minlevel 2
+
+#+INCLUDE: "projects.org" :minlevel 2

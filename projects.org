@@ -1,19 +1,23 @@
-#+INCLUDE: "static/language_specific/projects_title.org" :minlevel 1
+#+INCLUDE: "static/language_specific/projects_title.org" :minlevel 2
 
-#+INCLUDE: "static/language_specific/projects_skeleton_europe.org" :minlevel 2
+#+INCLUDE: "static/language_specific/projects_skeleton_europe.org" :minlevel 3
 
-#+INCLUDE: "variable/common/projects_european.org" :minlevel 2
+#+INCLUDE: "variable/common/projects_european.org" :minlevel 3
 
-#+INCLUDE: "static/language_specific/projects_skeleton_nfr.org" :minlevel 2
+#+BEGIN_COMMENT
+#+INCLUDE: "static/language_specific/projects_skeleton_nfr.org" :minlevel 3
 
-#+INCLUDE: "variable/common/projects_nfr.org" :minlevel 2
+#+INCLUDE: "variable/common/projects_nfr.org" :minlevel 3
+#+END_COMMENT
 
-#+INCLUDE: "static/language_specific/projects_skeleton_basque.org" :minlevel 2
+#+INCLUDE: "static/language_specific/projects_skeleton_basque.org" :minlevel 3
 
-#+INCLUDE: "variable/common/projects_basque.org" :minlevel 2
+#+INCLUDE: "variable/common/projects_basque.org" :minlevel 3
 
-#+INCLUDE: "static/language_specific/projects_skeleton_private.org" :minlevel 2
+#+BEGIN_COMMENT
+#+INCLUDE: "static/language_specific/projects_skeleton_private.org" :minlevel 3
 
-#+INCLUDE: "variable/common/projects_private.org" :minlevel 2
+#+INCLUDE: "variable/common/projects_private.org" :minlevel 3
+#+END_COMMENT
 
-#+INCLUDE: "static/language_specific/projects_skeleton_old.org" :minlevel 2
+#+INCLUDE: "static/language_specific/projects_skeleton_old.org" :minlevel 3

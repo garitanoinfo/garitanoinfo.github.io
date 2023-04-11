@@ -1,4 +1,1 @@
-- [[https://scholar.google.com/citations?user=yJDv6rMAAAAJ&hl=en][Google Scholar]]
-- [[https://www.researchgate.net/profile/Inaki_Garitano][ResearchGate]]
-- [[http://dblp.org/pid/12/10094][DBLP]]
-- [[http://orcid.org/0000-0002-0387-9167][ORCID]]
+- [[http://orcid.org/0000-0002-0387-9167][ORCID]] - [[https://scholar.google.com/citations?user=yJDv6rMAAAAJ&hl=en][Google Scholar]] - [[https://www.researchgate.net/profile/Inaki_Garitano][ResearchGate]] - [[http://dblp.org/pid/12/10094][DBLP]]

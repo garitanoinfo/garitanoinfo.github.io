@@ -1,7 +1,7 @@
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <br>
 <br>
 <a href="#">top</a>
 </div>
 <br>
-#+END_HTML
+#+END_EXPORT

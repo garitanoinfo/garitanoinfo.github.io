@@ -10,190 +10,6 @@
 <meta name="description" content="Personal web page of Iñaki Garitano" />
 <meta name="keywords" content="garitano, personal, cybersecurity, security, data science, machine learning, data analysis, bigdata" />
 <meta name="generator" content="Org Mode" />
-<style>
-  #content { max-width: 60em; margin: auto; }
-  .title  { text-align: center;
-             margin-bottom: .2em; }
-  .subtitle { text-align: center;
-              font-size: medium;
-              font-weight: bold;
-              margin-top:0; }
-  .todo   { font-family: monospace; color: red; }
-  .done   { font-family: monospace; color: green; }
-  .priority { font-family: monospace; color: orange; }
-  .tag    { background-color: #eee; font-family: monospace;
-            padding: 2px; font-size: 80%; font-weight: normal; }
-  .timestamp { color: #bebebe; }
-  .timestamp-kwd { color: #5f9ea0; }
-  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
-  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
-  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
-  .underline { text-decoration: underline; }
-  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
-  p.verse { margin-left: 3%; }
-  pre {
-    border: 1px solid #e6e6e6;
-    border-radius: 3px;
-    background-color: #f2f2f2;
-    padding: 8pt;
-    font-family: monospace;
-    overflow: auto;
-    margin: 1.2em;
-  }
-  pre.src {
-    position: relative;
-    overflow: auto;
-  }
-  pre.src:before {
-    display: none;
-    position: absolute;
-    top: -8px;
-    right: 12px;
-    padding: 3px;
-    color: #555;
-    background-color: #f2f2f299;
-  }
-  pre.src:hover:before { display: inline; margin-top: 14px;}
-  /* Languages per Org manual */
-  pre.src-asymptote:before { content: 'Asymptote'; }
-  pre.src-awk:before { content: 'Awk'; }
-  pre.src-authinfo::before { content: 'Authinfo'; }
-  pre.src-C:before { content: 'C'; }
-  /* pre.src-C++ doesn't work in CSS */
-  pre.src-clojure:before { content: 'Clojure'; }
-  pre.src-css:before { content: 'CSS'; }
-  pre.src-D:before { content: 'D'; }
-  pre.src-ditaa:before { content: 'ditaa'; }
-  pre.src-dot:before { content: 'Graphviz'; }
-  pre.src-calc:before { content: 'Emacs Calc'; }
-  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
-  pre.src-fortran:before { content: 'Fortran'; }
-  pre.src-gnuplot:before { content: 'gnuplot'; }
-  pre.src-haskell:before { content: 'Haskell'; }
-  pre.src-hledger:before { content: 'hledger'; }
-  pre.src-java:before { content: 'Java'; }
-  pre.src-js:before { content: 'Javascript'; }
-  pre.src-latex:before { content: 'LaTeX'; }
-  pre.src-ledger:before { content: 'Ledger'; }
-  pre.src-lisp:before { content: 'Lisp'; }
-  pre.src-lilypond:before { content: 'Lilypond'; }
-  pre.src-lua:before { content: 'Lua'; }
-  pre.src-matlab:before { content: 'MATLAB'; }
-  pre.src-mscgen:before { content: 'Mscgen'; }
-  pre.src-ocaml:before { content: 'Objective Caml'; }
-  pre.src-octave:before { content: 'Octave'; }
-  pre.src-org:before { content: 'Org mode'; }
-  pre.src-oz:before { content: 'OZ'; }
-  pre.src-plantuml:before { content: 'Plantuml'; }
-  pre.src-processing:before { content: 'Processing.js'; }
-  pre.src-python:before { content: 'Python'; }
-  pre.src-R:before { content: 'R'; }
-  pre.src-ruby:before { content: 'Ruby'; }
-  pre.src-sass:before { content: 'Sass'; }
-  pre.src-scheme:before { content: 'Scheme'; }
-  pre.src-screen:before { content: 'Gnu Screen'; }
-  pre.src-sed:before { content: 'Sed'; }
-  pre.src-sh:before { content: 'shell'; }
-  pre.src-sql:before { content: 'SQL'; }
-  pre.src-sqlite:before { content: 'SQLite'; }
-  /* additional languages in org.el's org-babel-load-languages alist */
-  pre.src-forth:before { content: 'Forth'; }
-  pre.src-io:before { content: 'IO'; }
-  pre.src-J:before { content: 'J'; }
-  pre.src-makefile:before { content: 'Makefile'; }
-  pre.src-maxima:before { content: 'Maxima'; }
-  pre.src-perl:before { content: 'Perl'; }
-  pre.src-picolisp:before { content: 'Pico Lisp'; }
-  pre.src-scala:before { content: 'Scala'; }
-  pre.src-shell:before { content: 'Shell Script'; }
-  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
-  /* additional language identifiers per "defun org-babel-execute"
-       in ob-*.el */
-  pre.src-cpp:before  { content: 'C++'; }
-  pre.src-abc:before  { content: 'ABC'; }
-  pre.src-coq:before  { content: 'Coq'; }
-  pre.src-groovy:before  { content: 'Groovy'; }
-  /* additional language identifiers from org-babel-shell-names in
-     ob-shell.el: ob-shell is the only babel language using a lambda to put
-     the execution function name together. */
-  pre.src-bash:before  { content: 'bash'; }
-  pre.src-csh:before  { content: 'csh'; }
-  pre.src-ash:before  { content: 'ash'; }
-  pre.src-dash:before  { content: 'dash'; }
-  pre.src-ksh:before  { content: 'ksh'; }
-  pre.src-mksh:before  { content: 'mksh'; }
-  pre.src-posh:before  { content: 'posh'; }
-  /* Additional Emacs modes also supported by the LaTeX listings package */
-  pre.src-ada:before { content: 'Ada'; }
-  pre.src-asm:before { content: 'Assembler'; }
-  pre.src-caml:before { content: 'Caml'; }
-  pre.src-delphi:before { content: 'Delphi'; }
-  pre.src-html:before { content: 'HTML'; }
-  pre.src-idl:before { content: 'IDL'; }
-  pre.src-mercury:before { content: 'Mercury'; }
-  pre.src-metapost:before { content: 'MetaPost'; }
-  pre.src-modula-2:before { content: 'Modula-2'; }
-  pre.src-pascal:before { content: 'Pascal'; }
-  pre.src-ps:before { content: 'PostScript'; }
-  pre.src-prolog:before { content: 'Prolog'; }
-  pre.src-simula:before { content: 'Simula'; }
-  pre.src-tcl:before { content: 'tcl'; }
-  pre.src-tex:before { content: 'TeX'; }
-  pre.src-plain-tex:before { content: 'Plain TeX'; }
-  pre.src-verilog:before { content: 'Verilog'; }
-  pre.src-vhdl:before { content: 'VHDL'; }
-  pre.src-xml:before { content: 'XML'; }
-  pre.src-nxml:before { content: 'XML'; }
-  /* add a generic configuration mode; LaTeX export needs an additional
-     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
-  pre.src-conf:before { content: 'Configuration File'; }
-
-  table { border-collapse:collapse; }
-  caption.t-above { caption-side: top; }
-  caption.t-bottom { caption-side: bottom; }
-  td, th { vertical-align:top;  }
-  th.org-right  { text-align: center;  }
-  th.org-left   { text-align: center;   }
-  th.org-center { text-align: center; }
-  td.org-right  { text-align: right;  }
-  td.org-left   { text-align: left;   }
-  td.org-center { text-align: center; }
-  dt { font-weight: bold; }
-  .footpara { display: inline; }
-  .footdef  { margin-bottom: 1em; }
-  .figure { padding: 1em; }
-  .figure p { text-align: center; }
-  .equation-container {
-    display: table;
-    text-align: center;
-    width: 100%;
-  }
-  .equation {
-    vertical-align: middle;
-  }
-  .equation-label {
-    display: table-cell;
-    text-align: right;
-    vertical-align: middle;
-  }
-  .inlinetask {
-    padding: 10px;
-    border: 2px solid gray;
-    margin: 10px;
-    background: #ffffcc;
-  }
-  #org-div-home-and-up
-   { text-align: right; font-size: 70%; white-space: nowrap; }
-  textarea { overflow-x: auto; }
-  .linenr { font-size: smaller }
-  .code-highlighted { background-color: #ffff00; }
-  .org-info-js_info-navigation { border-style: none; }
-  #org-info-js_console-label
-    { font-size: 10px; font-weight: bold; white-space: nowrap; }
-  .org-info-js_search-highlight
-    { background-color: #ffff00; color: #000000; font-weight: bold; }
-  .org-svg { }
-</style>
 <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">
@@ -220,29 +36,23 @@
 <body>
 <div id="content" class="content">
 <h1 class="title">Iñaki Garitano</h1>
-<div class="HTML" id="org576b584">
-<p>
-&lt;div id="email"&gt;
-(en | &lt;a href="<a href="http://www.garitano.eus/">http://www.garitano.eus/</a>" title="Basque"&gt;eu&lt;/a&gt;)&amp;nbsp;&amp;nbsp;igaritano-at-{garitano-dot-org/mondragon-dot-edu}
-&lt;/div&gt;
-</p>
-
-<p>
-&lt;div id="pgp"&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="contact/igaritano_professional_gpg_key.txt" title="Professional PGP Key"&gt;&lt;tt&gt;Professional: &lt;/tt&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="contact/igaritano_professional_gpg_key.txt" title="Professional PGP Key"&gt;&lt;tt&gt;CF7E 3CFC 2F58 7499 FEA2 D0DB 0E7B CF45 0892 57A6&lt;/tt&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href="contact/igaritano_personal_gpg_key.txt" title="Personal PGP Key"&gt;&lt;tt&gt;Personal: &lt;/tt&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="contact/igaritano_personal_gpg_key.txt" title="Personal PGP Key"&gt;&lt;tt&gt;1BD1 A4B0 DB15 341D B2AC DFD8 A1FE D344 49D2 88AE&lt;/tt&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</p>
-
+<div id="email">
+(en | <a href="http://www.garitano.eus/" title="Basque">eu</a>)&nbsp;&nbsp;igaritano-at-{garitano-dot-org/mondragon-dot-edu}
 </div>
+<!--
+<div id="pgp">
+<table>
+<tr>
+<td><a href="contact/igaritano_professional_gpg_key.txt" title="Professional PGP Key"><tt>Professional: </tt></a></td>
+<td><a href="contact/igaritano_professional_gpg_key.txt" title="Professional PGP Key"><tt>CF7E 3CFC 2F58 7499 FEA2 D0DB 0E7B CF45 0892 57A6</tt></a></td>
+</tr>
+<tr>
+<td><a href="contact/igaritano_personal_gpg_key.txt" title="Personal PGP Key"><tt>Personal: </tt></a></td>
+<td><a href="contact/igaritano_personal_gpg_key.txt" title="Personal PGP Key"><tt>1BD1 A4B0 DB15 341D B2AC DFD8 A1FE D344 49D2 88AE</tt></a></td>
+</tr>
+</table>
+</div>
+-->
 
 <div id="foundations">
   <Table>
@@ -270,9 +80,7 @@ Iñaki Garitano
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
 <li><a href="#description">Summary</a></li>
-<li><a href="#publications">Publications</a></li>
-<li><a href="#media">Media</a></li>
-<li><a href="#projects">Projects</a></li>
+<li><a href="#research_activities">Research Activities</a></li>
 <li><a href="#teaching">Teaching</a></li>
 <li><a href="#background">Background</a></li>
 <li><a href="#contact">Contact</a></li>
@@ -283,98 +91,89 @@ Iñaki Garitano
 <div id="outline-container-description" class="outline-2">
 <h2 id="description">Summary</h2>
 <div class="outline-text-2" id="text-description">
-<div class="HTML" id="orgf29b724">
+<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> is a researcher and lecturer in the Electronics and Computer Science Department and the <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity" target="_blank" title="Data Analysis and cybersecurity group">Data Analysis and Cybersecurity</a> group at <a href="http://www.mondragon.edu/en/" target="_blank" title="Mondragon Unibertsitatea">Mondragon Unibertsitatea</a>. He holds a PhD titled <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/researcher/inaki-garitano-garitano" target="_blank" title="Behavioral Modeling for Anomaly Detection in Industrial Control Systems"><i>Behavioral Modeling for Anomaly Detection in Industrial Control Systems</i></a> and an MSc in Telecommunication Engineering, both from <a href="http://www.mondragon.edu/en/" target="_blank" title="Mondragon Unibertsitatea">Mondragon Unibertsitatea</a>. Before joining <a href="http://www.mondragon.edu/en/" target="_blank" title="Mondragon Unibertsitatea">Mondragon Unibertsitatea</a> in 2015, he worked at <a href="http://www.mn.uio.no/its/english/" target="_blank" title="Universitetssenteret på Kjeller (UNIK)">Universitetssenteret på Kjeller (UNIK)</a> as a postdoctoral researcher, focusing on measurable Security, Privacy, and Dependability (SPD), Intrusion Detection Systems (IDS), and Internet of Things (IoT). In 2018 and 2019, he received a grant from the <a href="https://www.incibe.es/en/" target="_blank" title="INCIBE">National Cybersecurity Institute (INCIBE)</a> for a second postdoc, during which he focused on various research areas within the current research group. Additionally, he serves as the Chief Technology Officer of the <a href="http://www.basicinternet.org/" target="_blank" title="Basic Internet Foundation">Basic Internet Foundation</a>. Currently, he is participating in several European and National public funding research projects and has authored several journal, conference, and book chapters.
+
 <p>
-&lt;a href="<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano</a>" target="_blank" title="Iñaki Garitano"&gt;Iñaki Garitano&lt;/a&gt; is a researcher/lecturer in Electronics and Computer Engineering department and &lt;a href="<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity">https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity</a>" target="_blank" title="Data Analysis and cybersecurity group"&gt;Data Analysis and Cybersecurity&lt;/a&gt; group of &lt;a href="<a href="http://www.mondragon.edu/en/">http://www.mondragon.edu/en/</a>" target="_blank" title="Mondragon Unibertsitatea"&gt;Mondragon Unibertsitatea&lt;/a&gt;, Mondragon University.
-He holds a PhD titled &lt;a href="<a href="https://www.mondragon.edu/en/phd/defended-theses/-/tesis/2013-2014/i%C3%B1aki-garitano-garitano">https://www.mondragon.edu/en/phd/defended-theses/-/tesis/2013-2014/i%C3%B1aki-garitano-garitano</a>" target="_blank" title="Behavioral Modeling for Anomaly Detection in Industrial Control Systems"&gt;&lt;i&gt;Behavioral Modeling for Anomaly Detection in Industrial Control Systems&lt;/i&gt;&lt;/a&gt;, and MSc in Telecommunication Engineering, both from &lt;a href="<a href="http://www.mondragon.edu/en/">http://www.mondragon.edu/en/</a>" target="_blank" title="Mondragon Unibertsitatea"&gt;Mondragon Unibertsitatea&lt;/a&gt;. 
-Before joining &lt;a href="<a href="http://www.mondragon.edu/en/">http://www.mondragon.edu/en/</a>" target="_blank" title="Mondragon Unibertsitatea"&gt;Mondragon Unibertsitatea&lt;/a&gt; in 2015, he worked in &lt;a href="<a href="http://www.mn.uio.no/its/english/">http://www.mn.uio.no/its/english/</a>" target="_blank" title="Universitetssenteret på Kjeller (UNIK)"&gt;Universitetssenteret på Kjeller (UNIK)&lt;/a&gt; as postdoctoral researcher. 
-In addition, he is the CTO of the &lt;a href="<a href="http://www.basicinternet.org/">http://www.basicinternet.org/</a>" target="_blank" title="Basic Internet Foundation"&gt;Basic Internet Foundation&lt;/a&gt;. His interests include Data Science, Security, Privacy, Industrial Automation and Control Systems and Information and Communication Networks including Internet of Things. 
-He currently participates in several European, national and regional level public funding projects.
+Specialties: Anomaly Detection Systems, Intrusion Detection Systems, ICS Security, Computer and Network Security, Data Analysis.
 </p>
 
-</div>
-
 <p>
-Specialties: Data Analysis, Anomaly Detection Systems, Intrusion Detection Systems, ICS Security, Critical Information Infrastructure Protection, SCADA Security, Computer and Network Security.
+Interests: Secure Computing.
 </p>
 </div>
 </div>
 
-<div id="outline-container-publications" class="outline-2">
-<h2 id="publications">Publications</h2>
-<div class="outline-text-2" id="text-publications">
+<div id="outline-container-research_activities" class="outline-2">
+<h2 id="research_activities">Research Activities</h2>
+<div class="outline-text-2" id="text-research_activities">
+<div id="table-of-contents-research-activities">
+  <div id="text-table-of-contents">
+    <ul>
+      <li>
+        <a href="#publications">Publications</a>
+      </li>
+      <li>
+        <a href="#projects">Research projects</a>
+      </li>
+    </ul>
+  </div>
+</div>
 </div>
 
-<div id="outline-container-org5cd4e81" class="outline-3">
-<h3 id="org5cd4e81">Profiles</h3>
-<div class="outline-text-3" id="text-org5cd4e81">
+<div id="outline-container-publications" class="outline-3">
+<h3 id="publications">Publications</h3>
+<div class="outline-text-3" id="text-publications">
+</div>
+
+<div id="outline-container-org4620f2e" class="outline-4">
+<h4 id="org4620f2e">Profiles</h4>
+<div class="outline-text-4" id="text-org4620f2e">
 <ul class="org-ul">
-<li><a href="https://scholar.google.com/citations?user=yJDv6rMAAAAJ&amp;hl=en">Google Scholar</a></li>
-<li><a href="https://www.researchgate.net/profile/Inaki_Garitano">ResearchGate</a></li>
-<li><a href="http://dblp.org/pid/12/10094">DBLP</a></li>
-<li><a href="http://orcid.org/0000-0002-0387-9167">ORCID</a></li>
+<li><a href="http://orcid.org/0000-0002-0387-9167">ORCID</a> - <a href="https://scholar.google.com/citations?user=yJDv6rMAAAAJ&amp;hl=en">Google Scholar</a> - <a href="https://www.researchgate.net/profile/Inaki_Garitano">ResearchGate</a> - <a href="http://dblp.org/pid/12/10094">DBLP</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org842ea48" class="outline-3">
-<h3 id="org842ea48">2018</h3>
-<div class="outline-text-3" id="text-org842ea48">
+<div id="outline-container-orgd1c87fe" class="outline-4">
+<h4 id="orgd1c87fe">2020</h4>
+<div class="outline-text-4" id="text-orgd1c87fe">
 <ul class="org-ul">
-<li>Enaitz Ezpeleta, Mikel Iturbe, Iñaki Garitano, Iñaki Mendizabal, Urko Zurutuza. <span class="underline">A Mood Analysis on Youtube Comments and a Method for Improved Social Spam Detection</span> In <i>Hybrid Artificial Intelligent Systems</i> 2018 (<a href="variable/publications/ezpeleta2018mood.pdf">PDF</a>, <a href="variable/publications/ezpeleta2018mood.bib">BibTeX</a>, <a href="http://doi.org/10.1007/978-3-319-92639-1_43">link</a>)</li>
-<li>Ekhi Zugasti, Mikel Iturbe, Iñaki Garitano, Urko Zurutuza. <span class="underline">Null is Not Always Empty: Monitoring the Null Space for Field-Level Anomaly Detection in Industrial IoT Environments</span> In <i>Proceedings of 2018 IEEE Global Internet of Things Summit (GIoTS)</i> 2018 (<a href="variable/publications/zugasti2018null.pdf">PDF</a>, <a href="variable/publications/zugasti2018null.bib">BibTeX</a>, <a href="variable/publications/zugasti2018null_slides.pdf">slides</a>)</li>
-<li>Felix Larrinaga, Javier Fernandez, Ekhi Zugasti, Iñaki Garitano, Urko Zurutuza, Mikel Anasagasti, Mikel Mondragon. <span class="underline">Implementation of a Reference Architecture for Cyber Physical Systems to support Condition Based Maintenance</span> In <i>International Conference on Control, Decision and Information Technologies (CoDIT)</i> 2018 (<a href="variable/publications/larrinaga2018implementation.pdf">PDF</a>, <a href="variable/publications/larrinaga2018implementation.bib">BibTeX</a>, <a href="http://www.mantis-project.eu/wp-content/uploads/2015/10/implementation-reference-architecture.pdf">link</a>)</li>
-</ul>
-</div>
-</div>
-
-
-<div id="outline-container-org9c184d6" class="outline-3">
-<h3 id="org9c184d6">2017</h3>
-<div class="outline-text-3" id="text-org9c184d6">
-<ul class="org-ul">
-<li>Enaitz Ezpeleta, Iñaki Garitano and Urko Zurutuza. <span class="underline">Short Messages Spam Filtering Combining Personality Recognition and Sentiment Analysis</span> In <i>International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems</i> Vol. 25, Suppl. 2, pp 175-189, 2017 (<a href="variable/publications/ezpeleta2017short.pdf">PDF</a>)</li>
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, Iñaki Garitano, Urko Zurutuza and Roberto Uribeetxeberria. <span class="underline">Towards Large-Scale, Heterogeneous, Anomaly Detection Systems in Industrial Networks: A Survey of Current Trends</span> In <i>Security and Communication Networks</i> 2017  (<a href="variable/publications/iturbe2017towards.pdf">PDF</a>, <a href="variable/publications/iturbe2017towards.bib">BibTeX</a>, <a href="https://www.hindawi.com/journals/scn/2017/9150965/">link</a>)</li>
-<li>Markel Sainz, Mikel Iturbe, Iñaki Garitano and Urko Zurutuza. <span class="underline">Software Defined Networking opportunities for intelligent security enhancement of Industrial Control Systems</span> In <i>Proceedings of 10th International Conference on Computational Intelligence in Security for Information Systems (CISIS 2017)</i> 2017 (<a href="variable/publications/sainz2017software.pdf">PDF</a>, <a href="variable/publications/sainz2017software.bib">BibTeX</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-319-67180-2_56">link</a>)</li>
-<li>Enaitz Ezpeleta, Iñaki Garitano, Ignacio Arenaza-Nuño, Urko Zurutuza and José María Gómez Hidalgo. <span class="underline">Novel Comment Spam Filtering Method on Youtube: Sentiment Analysis and Personality Recognition</span> In <i>Proceedings of Current Trends In Web Engineering (ICWE 2017 International Workshops)</i> 2017 (<a href="variable/publications/ezpeleta2017sowemine.pdf">PDF</a>, <a href="variable/publications/ezpeleta2017sowemine.bib">BibTeX</a>, <a href="variable/publications/ezpeleta2017sowemine_slides.pdf">slides</a>)</li>
-<li>Aitor Osa, Iñaki Garitano, Ignacio Arenaza-Nuño, Urko Zurutuza and <a href="https://iturbe.info">Mikel Iturbe</a>. <span class="underline">Cifrado CP-ABE para el ecosistema Apache Hadoop</span> In <i>Proceedings of III Jornadas Nacionales de Investigación en Ciberseguridad (JNIC 2017)</i> 2017 (<a href="variable/publications/osa2017cifrado.pdf">PDF</a>, <a href="variable/publications/osa2017cifrado.bib">BibTeX</a>, <a href="http://hdl.handle.net/10115/14540">link</a>, <a href="variable/publications/osa2017cifrado_slides.pdf">slides</a>)</li>
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, Iñaki Garitano, Ignacio Arenaza-Nuño and Urko Zurutuza. <span class="underline">Hacia un conjunto estándar de ataques contra sistemas de control para la evaluación de contramedidas</span> In <i>Proceedings of III Jornadas Nacionales de Investigación en Ciberseguridad (JNIC 2017)</i> 2017 (<a href="variable/publications/iturbe2017hacia.pdf">PDF</a>, <a href="variable/publications/iturbe2017hacia.bib">BibTeX</a>, <a href="http://hdl.handle.net/10115/14540">link</a>)</li>
-</ul>
-</div>
-</div>
-
-
-<div id="outline-container-orgbea5ce7" class="outline-3">
-<h3 id="orgbea5ce7">2016</h3>
-<div class="outline-text-3" id="text-orgbea5ce7">
-<ul class="org-ul">
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, <a href="http://wdb.ugr.es/~josecamacho/">José Camacho</a>, Iñaki Garitano, Urko Zurutuza and Roberto Uribeetxeberria. <span class="underline">Distinguiendo entre perturbaciones de proceso e intrusiones en sistemas de control: caso de estudio con el proceso Tennessee-Eastman</span> In <i>Proceedings of the XIV Reunión Española sobre Criptología y Seguridad de la Información (RECSI 2016)</i> 2016 (<a href="variable/publications/iturbe2016distinguiendo.pdf">PDF</a>, <a href="variable/publications/iturbe2016distinguiendo.bib">BibTeX</a>)</li>
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, Unai Izagirre, Iñaki Garitano, Ignacio Arenaza-Nuño, Urko Zurutuza and Roberto Uribeetxeberria. <span class="underline">Diseño de un banco de pruebas híbrido para la investigación de seguridad y resiliencia en redes industriales</span> In <i>Proceedings of II Jornadas Nacionales de Investigación en Ciberseguridad (JNIC 2016)</i> 2016 (<a href="variable/common/publications/iturbe2016diseno.pdf">PDF</a>, <a href="variable/common/publications/iturbe2016diseno.bib">BibTeX</a>)</li>
-<li>Miguel Fernández, Iñaki Arenaza, Iñaki Garitano, Jesús Lizarraga and <a href="https://iturbe.info">Mikel Iturbe</a>. <span class="underline">MOOC sobre Hacking ético de MONDRAGON UNIBERTSITATEA - #moocHackingMU</span> In <i>Proceedings of II Jornadas Nacionales de Investigación en Ciberseguridad (JNIC 2016)</i> 2016 (<a href="variable/common/publications/fernandez2016mooc.pdf">PDF</a>, <a href="variable/common/publications/fernandez2016mooc.bib">BibTeX</a>)</li>
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, <a href="http://wdb.ugr.es/~josecamacho/">José Camacho</a>, Iñaki Garitano, Urko Zurutuza and Roberto Uribeetxeberria. <span class="underline">On the Feasibility of Distinguishing Between Process Disturbances and Intrusions in Process Control Systems Using Multivariate Statistical Process Control</span> In <i>46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshop (DSN-W 2016)</i> 2016 (<a href="https://arxiv.org/pdf/1706.01679.pdf">PDF</a>, <a href="variable/common/publications/iturbe2016feasibility.bib">BibTeX</a>, <a href="https://iturbe.info/assets/pdf/iturbe2016feasibility_slides.pdf">Slides</a>)</li>
-<li>Elin Sundby Boysen, Iñaki Garitano and <a href="http://jnoll.net">Josef Noll</a>. <span class="underline">Basic Internet Access: Capacity and Traffic Shaping</span> In <i>Proceedings of the Sixth International Conference on Mobile Services, Resources, and Users (MOBILITY 2016)</i> 2016 (<a href="variable/common/publications/sundby2016basic.pdf">PDF</a>)</li>
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, Iñaki Garitano, Urko Zurutuza and Roberto Uribeetxeberria. <span class="underline">Visualizing Network Flows and Related Anomalies in Industrial Networks using Chord Diagrams and Whitelisting</span> In <i>Proceedings of the 11th Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2016)</i> 2016 (<a href="variable/common/publications/iturbe2016visualizing.pdf">PDF</a>, <a href="variable/common/publications/iturbe2016visualizing.bib">BibTeX</a>, <a href="https://iturbe.info/assets/pdf/iturbe2016visualizing_slides.pdf">Slides</a>)</li>
+<li>Markel Sainz, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://iturbe.info">Mikel Iturbe</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>. <span class="underline">Deep packet inspection for intelligent intrusion detection in software-defined industrial networks: A proof of concept</span> In <i>Logic Journal of the IGPL</i> 2020 (<a href="variable/publications/sainz2020deep.pdf">PDF</a>, <a href="variable/publications/sainz2020deep.bib">BibTeX</a>, <a href="https://doi.org/10.1093/jigpal/jzz060">DOI</a>)</li>
+<li><a href="https://aaalongueira.github.io/">Ángel Longueira-Romero</a>, Rosa Iglesias, David Gonzalez, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>. <span class="underline">How to Quantify the Security Level of Embedded Systems? A Taxonomy of Security Metrics</span> In <i>Proceedings of 18th IEEE International Conference on Industrial Informatics (INDIN)</i> 2020 (<a href="variable/publications/alongueiraromero2020metrics.pdf">PDF</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/daniel-reguera-bakhache">Daniel Reguera-Bakhache</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/roberto-uribeetxeberria-ezpeleta">Roberto Uribeetxeberria</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/carlos-cernuda-garcia">Carlos Cernuda</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>. <span class="underline">Data-Driven Industrial Human-Machine Interface Temporal Adaptation for Process Optimization</span> In <i>Proceedings of 25th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)</i> 2020 (<a href="variable/publications/reguera2020multiuser.pdf">PDF</a>, <a href="variable/publications/reguera2020multiuser.bib">BibTeX</a>, <a href="https://doi.org/10.1109/ETFA46521.2020.9211930">DOI</a>)</li>
 </ul>
 </div>
 </div>
 
 
-<div id="outline-container-orgd7c5f0f" class="outline-3">
-<h3 id="orgd7c5f0f">2015</h3>
-<div class="outline-text-3" id="text-orgd7c5f0f">
+<div id="outline-container-org43df12f" class="outline-4">
+<h4 id="org43df12f">2019</h4>
+<div class="outline-text-4" id="text-org43df12f">
 <ul class="org-ul">
-<li><a href="https://www.hioa.no/tilsatt/lgarnwei">Lisa Garnweidner-Holme</a>, <a href="https://www.hioa.no/tilsatt/irenbo">Iren Borgen</a>, Iñaki Garitano, <a href="http://jnoll.net">Josef Noll</a> and <a href="https://www.hioa.no/eng/employee/Mirjam%20Lukasse">Mirjam Lukasse</a>. <span class="underline">Designing and developing a mobile smartphone application for women with gestational diabetes mellitus followed-up at diabetes outpatient clinics in Norway</span> In <i>Healthcare, Special Issue "The Close Relationship: Health and Nutrition", MDPI.</i> 2015 (<a href="variable/publications/garnweidner-holme2015designing.pdf">PDF</a>, <a href="variable/publications/garnweidner-holme2015designing.bib">BibTeX</a>, <a href="http://www.mdpi.com/2227-9032/3/2/310">link</a>)</li>
-<li>Iñaki Garitano, Seraj Fayyad, <a href="http://jnoll.net">Josef Noll</a>. <span class="underline">Multi-Metrics Approach for Security, Privacy and Dependability in Embedded Systems</span> In <i>Wireless Personal Communications.</i> 2015 (<a href="variable/common/publications/garitano2015multi.pdf">PDF</a>, <a href="variable/common/publications/garitano2015multi.bib">BibTeX</a>, <a href="https://link.springer.com/article/10.1007/s11277-015-2478-z">link</a>)</li>
-<li><a href="https://www.hioa.no/tilsatt/lgarnwei">Lisa Garnweidner-Holme</a>, Iñaki Garitano, <a href="https://www.hioa.no/tilsatt/irenbo">Iren Borgen</a> and <a href="https://www.hioa.no/eng/employee/Mirjam%20Lukasse">Mirjam Lukasse</a>. <span class="underline">Designing a smartphone application for women with gestational diabetes mellitus followed-up at diabetes outpatient clinics in Norway</span> In <i>Proceedings of International Society of Behavioral Nutrition and Physical Activity (ISBNPA 2015).</i> 2015</li>
-<li>George Suciu, Geaba Alin Nicusor, Iñaki Garitano and <a href="http://jnoll.net">Josef Noll</a>. <span class="underline">Basic Internet: Mobile Content Delivery to Everyone</span> In <i>Proceedings of the Eleventh International Conference on Wireless and Mobile Communications (ICWMC 2015)</i> 2015 (<a href="variable/common/publications/suciu2015basic.pdf">PDF</a>, <a href="variable/common/publications/suciu2015basic.bib">BibTeX</a>)</li>
-<li><a href="https://iturbe.info">Mikel Iturbe</a>, Iñaki Garitano, Urko Zurutuza and Roberto Uribeetxeberria. <span class="underline">Sistema visual de monitorización de seguridad de flujos de red industriales</span> In <i>Proceedings of Jornadas Nacionales de Investigación en Ciberseguridad (JNIC 2015)</i> 2015 (<a href="variable/publications/iturbe2015sistema.pdf">PDF</a>, <a href="variable/publications/iturbe2015sistema.bib">BibTeX</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://iturbe.info">Mikel Iturbe</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/enaitz-ezpeleta-gallastegi">Enaitz Ezpeleta</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>. <span class="underline">Who’s There? Evaluating Data Source Integrity and Veracity in IIoT Using Multivariate Statistical Process Control</span> In <i>Security and Privacy Trends in the Industrial Internet of Things</i> 2019 (<a href="variable/publications/igaritano2019whoisthere.pdf">PDF</a>, <a href="variable/publications/igaritano2019whoisthere.bib">BibTeX</a>, <a href="https://doi.org/10.1007/978-3-030-12330-7_9">DOI</a>)</li>
+<li>Goreti Marreiros, Peter Craamer, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, Roberto González, Manja Gorenc Novak, Aleš Kancilija, Quinten Marcelis, Diogo Martinho, Antti Niemelä, Franc Novak, Gregor Papa, Špela Poklukar, Isabel Praça, Ville Rauhala, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/daniel-reguera-bakhache">Daniel Reguera-Bakhache</a>, Marjan Šterk, Gorka Urchegui, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/roberto-uribeetxeberria-ezpeleta">Roberto Uribeetxeberria</a>, Juha Valtonen, Anja Vidmar. <span class="underline">From KPI Dashboards to Advanced Visualization</span> <i>The MANTIS Book. Cyber Physical System Based Proactive Collaborative Maintenance</i> 2019 (<a href="variable/publications/marreiros2019mantis.pdf">PDF</a>, <a href="https://doi.org/10.13052/rp-9788793609846">DOI</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>. <span class="underline">Ezagutza berria praktika bihurtu</span> In <i>Osagaiz: osasun-zientzien aldizkaria</i> 2019 (<a href="variable/publications/igaritano2019ezagutzaberriak.pdf">PDF</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://iturbe.info">Mikel Iturbe</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/enaitz-ezpeleta-gallastegi">Enaitz Ezpeleta</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zuruntza</a>. <span class="underline">Detectando anomalías de integridad y veracidad en fuentes de datos IIoT</span> In <i>Actas de las V Jornadas Nacionales de Ciberseguridad</i> 2019 (<a href="variable/publications/igaritano2019anomaliasiiot.pdf">PDF</a>, <a href="http://hdl.handle.net/10662/9443">link</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/felix-larrinaga-barrenechea">Felix Larrinaga</a>, Javier Fernandez, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/ekhi-zugasti-uriguen">Ekhi Zugasti</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>, Jon Olaizola, Mikel Anasagasti, Mikel Mondragon. <span class="underline">A Big Data implementation of the MANTIS Reference Architecture for Predictive Maintenance</span> In <i>Proceedings of the Institution of Mechanical Engineers</i> 2019 (<a href="variable/publications/larrinaga2019mantis.pdf">PDF</a>, <a href="variable/publications/larrinaga2019mantis.bib">BibTeX</a> , <a href="https://doi.org/10.1177%2F0959651819835362">DOI</a>)</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org88d4630" class="outline-3">
-<h3 id="org88d4630">Previous</h3>
-<div class="outline-text-3" id="text-org88d4630">
+
+<div id="outline-container-orgbd003bd" class="outline-4">
+<h4 id="orgbd003bd">2018</h4>
+<div class="outline-text-4" id="text-orgbd003bd">
+<ul class="org-ul">
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/enaitz-ezpeleta-gallastegi">Enaitz Ezpeleta</a>, <a href="https://iturbe.info">Mikel Iturbe</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/inaki-velez-de-mendizabal-gonzalez">Iñaki Velez de Mendizabal</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>. <span class="underline">A Mood Analysis on Youtube Comments and a Method for Improved Social Spam Detection</span> In <i>Hybrid Artificial Intelligent Systems</i> 2018 (<a href="variable/publications/ezpeleta2018mood.pdf">PDF</a>, <a href="variable/publications/ezpeleta2018mood.bib">BibTeX</a>, <a href="http://doi.org/10.1007/978-3-319-92639-1_43">link</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/ekhi-zugasti-uriguen">Ekhi Zugasti</a>, <a href="https://iturbe.info">Mikel Iturbe</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>. <span class="underline">Null is Not Always Empty: Monitoring the Null Space for Field-Level Anomaly Detection in Industrial IoT Environments</span> In <i>Proceedings of 2018 IEEE Global Internet of Things Summit (GIoTS)</i> 2018 (<a href="variable/publications/zugasti2018null.pdf">PDF</a>, <a href="variable/publications/zugasti2018null.bib">BibTeX</a>, <a href="variable/publications/zugasti2018null_slides.pdf">slides</a>)</li>
+<li><a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/felix-larrinaga-barrenechea">Felix Larrinaga</a>, Javier Fernandez, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/investigador/ekhi-zugasti-uriguen">Ekhi Zugasti</a>, <a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">Iñaki Garitano</a>, <a href="https://www.mondragon.edu/en/research-transfer/cooperativism/research-and-transfer-groups/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a>, Mikel Anasagasti, Mikel Mondragon. <span class="underline">Implementation of a Reference Architecture for Cyber Physical Systems to support Condition Based Maintenance</span> In <i>International Conference on Control, Decision and Information Technologies (CoDIT)</i> 2018 (<a href="variable/publications/larrinaga2018implementation.pdf">PDF</a>, <a href="variable/publications/larrinaga2018implementation.bib">BibTeX</a>, <a href="http://www.mantis-project.eu/wp-content/uploads/2015/10/implementation-reference-architecture.pdf">link</a>)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgb1a9012" class="outline-4">
+<h4 id="orgb1a9012">Previous</h4>
+<div class="outline-text-4" id="text-orgb1a9012">
 <ul class="org-ul">
 <li><a href="static/language_specific/publications_old.html">Previous publications</a></li>
 </ul>
@@ -382,127 +181,58 @@ Specialties: Data Analysis, Anomaly Detection Systems, Intrusion Detection Syste
 </div>
 </div>
 
-<div id="outline-container-media" class="outline-2">
-<h2 id="media">Media</h2>
-<div class="outline-text-2" id="text-media">
+<div id="outline-container-projects" class="outline-3">
+<h3 id="projects">Projects</h3>
+<div class="outline-text-3" id="text-projects">
 </div>
 
-<div id="outline-container-org5ded092" class="outline-3">
-<h3 id="org5ded092">Teknopolis</h3>
-<div class="outline-text-3" id="text-org5ded092">
+<div id="outline-container-orge6020e4" class="outline-4">
+<h4 id="orge6020e4">European projects</h4>
+<div class="outline-text-4" id="text-orge6020e4">
 <ul class="org-ul">
-<li>2018
+<li><a href="https://www.variot.eu/">VARIoT</a> - <span class="underline">Vulnerability and Attack Repository for IoT.</span>
 <ul class="org-ul">
-<li>Big Data al servicio del corazón (Optimus project)
-<ul class="org-ul">
-<li><a href="http://teknopolis.elhuyar.eus/reportajes/big-data-al-servicio-del-corazon/">Teknopolis</a></li>
-<li><a href="http://www.eitb.tv/es/video/teknopolis-es--2017-2018/5939/137378/tecnologia-para-el-corazon/">EITB</a></li>
-</ul></li>
-</ul></li>
-
-<li>2016
-<ul class="org-ul">
-<li>Hacia un Internet básico al alcance de todos (Basic Internet project)
-<ul class="org-ul">
-<li><a href="http://teknopolis.elhuyar.eus/reportajes/hacia-un-internet-basico-al-alcance-de-todos/">Teknopolis</a></li>
-<li><a href="http://www.eitb.tv/es/video/teknopolis-es--2015-2016/5309/105590/tecnologia/">EITB</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</div>
-</div>
-</div>
-
-<div id="outline-container-projects" class="outline-2">
-<h2 id="projects">Projects</h2>
-<div class="outline-text-2" id="text-projects">
-</div>
-
-<div id="outline-container-org0c87f8c" class="outline-3">
-<h3 id="org0c87f8c">European projects</h3>
-<div class="outline-text-3" id="text-org0c87f8c">
-<ul class="org-ul">
-<li><a href="http://prophesy.eu/">PROPHESY</a> - <span class="underline">Platform for Rapid Deployment of Self-Configuring and Optimized Predictive Maintenance Services.</span>
-<ul class="org-ul">
-<li>H2020-IND-CE-2016-17, FoF-09-2017, IA. Ref. 766994. 2017-10-01/2020-09-30.</li>
-</ul></li>
-<li><a href="https://productive40.eu/">Productive 4.0</a> - <span class="underline">Electronics and ICT as Enabler for Digital Industry and Optimized Supply Chain Management Covering the Entire Product Lifecycle.</span>
-<ul class="org-ul">
-<li>H2020-ECSEL-2016-2-IA. Ref. 737459. 2017-05-01/2020-04-30.</li>
-</ul></li>
-<li><a href="https://www.servroll.eu/">SERVROLL</a> - <span class="underline">New Servo-Control, Process Design and Set-up Strategies for Holistic Optimization of Roll Forming.</span>
-<ul class="org-ul">
-<li>MICINN-CDTI &amp; Eurostarts VII Marco Program. Ref. EXP-00088623/CIIP-20161009 | 10084/14/22821/Ae. 2016-05-01/.</li>
+<li>Connecting Europe Facility, TENtec n. 28263632. 2019-07-01/2022-06-30.</li>
 </ul></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org5b38ece" class="outline-3">
-<h3 id="org5b38ece">Research Council of Norway (NFR)</h3>
-<div class="outline-text-3" id="text-org5b38ece">
+<div id="outline-container-org8502591" class="outline-4">
+<h4 id="org8502591">Basque government projects</h4>
+<div class="outline-text-4" id="text-org8502591">
 <ul class="org-ul">
-<li><a href="http://its-wiki.no/wiki/DigI:Home">DigI</a> - <span class="underline">Non-discriminating access for Digital Inclusion</span>.
+<li>TRUSTIND - <span class="underline">Creating Trust in the Industrial Digital Transformation</span>
 <ul class="org-ul">
-<li>Ref. 267558/H30. 2017-01-01/2019-12-31.</li>
-<li>20.1 MNOK. 10 partners / 8 countries.</li>
-<li>Main outcome:
-<ul class="org-ul">
-<li>Piloting "free access to information (<a href="http://its-wiki.no/wiki/InfoInternet">InfoInternet</a>)" and assessing the impact of <a href="http://its-wiki.no/wiki/InfoInternet">InfoInternet</a></li>
-<li>Digital Health Spot in Tanzania, Phase A: 3 villages</li>
-<li>Digital Service Spot in DR Congo, Phase A: 2 villages</li>
-</ul></li>
-</ul></li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orga9132c6" class="outline-3">
-<h3 id="orga9132c6">Basque government projects</h3>
-<div class="outline-text-3" id="text-orga9132c6">
-<ul class="org-ul">
-<li>SEKUTEK - <span class="underline">Segurtasun teknologiak</span>
-<ul class="org-ul">
-<li>Elkartek. Ref. KK-2017/00044. 2017-03-01/2018-12-31.</li>
+<li>Elkartek. Ref. KK-2020/00054. 2020-07-01/2021-12-31.</li>
 </ul></li>
 <li>SISI - <span class="underline">Sistemas Inteligentes para Sistemas Industriales.</span>
 <ul class="org-ul">
-<li>Grupos de Investigación. Ref. IT886-16. 2016-01-01/2018-12-31.</li>
+<li>Grupos de Investigación. Ref. IT1357-19. 2019-01-01/2021-12-31.</li>
 </ul></li>
-<li>EDAR 4.0 - <span class="underline">Gestión Energética Integral e Inteligente de la EDAR.</span>
+<li>SENDAI - <span class="underline">Segurtasun integrala industria adimentsurako</span>
 <ul class="org-ul">
-<li>Hazitek estratégico. Ref. ZE-2016/00020. 2016-07/2018-12.</li>
+<li>Elkartek. Ref. KK-2019/00072. 2019-06-01/2021-03-31.</li>
 </ul></li>
-<li>OPTIMUS - <span class="underline">Solución Integral de Analítica Avanzada de Datos para una Gestión y Asistencia Sanitaria Óptima.</span>
+<li>UBK4ALL
 <ul class="org-ul">
-<li>Hazitek Competitivo. Ref. ZL-2016/00910. 2016-04-01/2018-12-31.</li>
+<li>Hazitek.</li>
 </ul></li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-org681d9cb" class="outline-3">
-<h3 id="org681d9cb">Private funding</h3>
-<div class="outline-text-3" id="text-org681d9cb">
+<li>COIOTE - <span class="underline">Ciberseguridad Orientada al IoT y producto Electrónico</span>
 <ul class="org-ul">
-<li>BaMbU - <span class="underline">Big Data para el cálculo de la Movilidad de los Usuarios.</span>
-<ul class="org-ul">
-<li>2017-09-06/ .</li>
-</ul></li>
-<li>POSEIDON - <span class="underline">Cloud Based O&amp;M support para plantas de tratamiento de agua.</span>
-<ul class="org-ul">
-<li>2015-06-01/ .</li>
+<li>Elkartek. Ref. KK-2019/00082. 2019-03-01/2020-12-31.</li>
 </ul></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgb43d6bd" class="outline-3">
-<h3 id="orgb43d6bd">Finished</h3>
-<div class="outline-text-3" id="text-orgb43d6bd">
+<div id="outline-container-org4e1aae6" class="outline-4">
+<h4 id="org4e1aae6">Finished</h4>
+<div class="outline-text-4" id="text-org4e1aae6">
 <ul class="org-ul">
 <li><a href="static/language_specific/projects_old.html">Finished projects</a></li>
 </ul>
+</div>
 </div>
 </div>
 </div>
@@ -512,50 +242,97 @@ Specialties: Data Analysis, Anomaly Detection Systems, Intrusion Detection Syste
 <div class="outline-text-2" id="text-teaching">
 </div>
 
-<div id="outline-container-orgd132c5a" class="outline-3">
-<h3 id="orgd132c5a">Subjects</h3>
-<div class="outline-text-3" id="text-orgd132c5a">
+<div id="outline-container-org41c07a4" class="outline-3">
+<h3 id="org41c07a4">Subjects</h3>
+<div class="outline-text-3" id="text-org41c07a4">
 <ul class="org-ul">
-<li><a href="https://www.mondragon.edu/en/master-degree-biomedical-technologies">Master's Degree in Biomedical Technologies</a>. Mondragon Unibertsitatea.
+<li><a href="https://www.mondragon.edu/en/master-degree-data-analysis-cybersecurity-cloud-computing">Master Degree in Data Analysis, Cybersecurity and Cloud Computing.</a> Mondragon Unibertsitatea.
 <ul class="org-ul">
-<li>Bioinformatics and data analysis. 2018-2019.</li>
+<li>Infrastructure and Network Security. 2020-2021.</li>
+<li>Data Intelligence. 2020-2021.</li>
+<li>Infrastructures and Systems. 2020-2021.</li>
 </ul></li>
+</ul>
 
-<li><a href="http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad">Master's Degree in Cybersecurity</a>. Mondragon Unibertsitatea.
+
 <ul class="org-ul">
-<li>Software security. 2018-2019.</li>
+<li><a href="https://www.mondragon.edu/en/master-degree-biomedical-technologies">Master Degree in Biomedical Technologies.</a> Mondragon Unibertsitatea.
+<ul class="org-ul">
+<li>Bioinformatics and data analysis. 2020-2021.</li>
 </ul></li>
+</ul>
 
-<li><a href="https://www.mondragon.edu/en/bachelor-degree-computer-engineering">Bachelor's Degree in Computer Engineering</a>. Mondragon Unibertsitatea.
+
 <ul class="org-ul">
-<li>Infrastructure and Systems. 2018-2019.</li>
+<li><a href="http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad">Master Degree in Cybersecurity</a>. Mondragon Unibertsitatea.
+<ul class="org-ul">
+<li>Software security. 2020-2021.</li>
+</ul></li>
+</ul>
+
+
+<ul class="org-ul">
+<li><a href="https://www.mondragon.edu/en/bachelor-degree-computer-engineering">Bachelor Degree in Computer Engineering</a>. Mondragon Unibertsitatea.
+<ul class="org-ul">
+<li>Infrastructures and Systems. 2020-2021.</li>
 </ul></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orga37b6bf" class="outline-3">
-<h3 id="orga37b6bf">PhD students</h3>
-<div class="outline-text-3" id="text-orga37b6bf">
+<div id="outline-container-org501b567" class="outline-3">
+<h3 id="org501b567">PhD students</h3>
+<div class="outline-text-3" id="text-org501b567">
 <ul class="org-ul">
-<li>Dani Reguera Bakhache. <span class="underline">Data-driven framework for optimizing Human-Computer Interaction</span></li>
-<li>Markel Sainz Oruna. <span class="underline">Software Defined Networking Approaches for Security in Industrial Control Systems</span></li>
+<li><a href="https://aaalongueira.github.io/">Ángel Longueira-Romero</a>. <span class="underline">Cybersecurity Evaluation Methodology for Industrial Embedded Components</span></li>
+<li><a href="https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza/irakaslegoa/-/profesor/daniel-reguera-bakhache">Daniel Reguera Bakhache</a>. <span class="underline">Data-driven framework for optimizing Human-Computer Interaction</span></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org28aed13" class="outline-3">
-<h3 id="org28aed13">BSc &amp; MSc students advice</h3>
-<div class="outline-text-3" id="text-org28aed13">
+<div id="outline-container-org2f9e03c" class="outline-3">
+<h3 id="org2f9e03c">BSc &amp; MSc students advice</h3>
+<div class="outline-text-3" id="text-org2f9e03c">
 <ul class="org-ul">
-<li>Not assigned.</li>
+<li>Xabier Etxezarreta Argarate. <span class="underline">Software Defined Networking approaches for Intrusion detection and response in Industrial Control Systems</span>
+<ul class="org-ul">
+<li>For <i>Master's Degree in Data Analysis, Cybersecurity and Cloud Computing by Mondragon Unibertsitatea.</i> 2021</li>
+</ul></li>
+<li>Xabier Gandiaga Iriondo. <span class="underline">Hardware emulation for dynamic malware analysis on IoT devices</span>
+<ul class="org-ul">
+<li>For <i>Master's Degree in Data Analysis, Cybersecurity and Cloud Computing by Mondragon Unibertsitatea.</i> 2021</li>
+</ul></li>
+<li>Imanol Rubio Unanue. <span class="underline">Zibersegurtasuna: IoT sistemen azterketa aurreratua</span>
+<ul class="org-ul">
+<li>For <i>Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea.</i> 2021</li>
+</ul></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org0542771" class="outline-3">
-<h3 id="org0542771">Previous</h3>
-<div class="outline-text-3" id="text-org0542771">
+<div id="outline-container-orgab96899" class="outline-3">
+<h3 id="orgab96899">Advised Students</h3>
+<div class="outline-text-3" id="text-orgab96899">
+<ul class="org-ul">
+<li>Oihana Leiza Alzuart.
+<ul class="org-ul">
+<li>As work and study sharing intern for Nafarroako Gobernua. 2020-2021</li>
+</ul></li>
+<li>Unai Ramos Arizti. <span class="underline">Tecnologías DLT ligeras para IIoT</span>
+<ul class="org-ul">
+<li>As work and study sharing intern for Ikerlan S.Coop. 2020-2021</li>
+</ul></li>
+<li>Iñigo Ortega Martinez. <span class="underline">Zibersegurtasuna: IoT sistemen azterketa aurreratua</span>
+<ul class="org-ul">
+<li>As work and study sharing intern under VARIoT public funding European research project. Mondragon Unibertsitatea. 2020-2021</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org92c451b" class="outline-3">
+<h3 id="org92c451b">Previous</h3>
+<div class="outline-text-3" id="text-org92c451b">
 <ul class="org-ul">
 <li><a href="static/language_specific/teaching_old.html">Previous teaching activities</a></li>
 </ul>
@@ -574,32 +351,86 @@ Specialties: Data Analysis, Anomaly Detection Systems, Intrusion Detection Syste
 <div id="outline-container-stays_abroad" class="outline-3">
 <h3 id="stays_abroad">Stays in foreign research centers</h3>
 <div class="outline-text-3" id="text-stays_abroad">
-<div class="HTML" id="orgc893091">
 <p>
-&lt;p&gt;
-&lt;u&gt;UNIK – Universitetssenteret på Kjeller&lt;/u&gt; &lt;br&gt;
-Kjeller, Norvegia&lt;br&gt;
-06/03/2014 - 31/03/2015 &lt;br&gt;
-&lt;a href="<a href="http://www.unik.no">http://www.unik.no</a>" target="_blank" title="Universitetssenteret på Kjeller"&gt;Universitetssenteret på Kjeller&lt;/a&gt; &lt;br&gt;
+<u>UNIK – Universitetssenteret på Kjeller</u> <br>
+Kjeller, Norvegia<br>
+06/03/2014 - 31/03/2015 <br>
+<a href="http://www.unik.no" target="_blank" title="Universitetssenteret på Kjeller">Universitetssenteret på Kjeller</a> <br>
 Postdoc.
-&lt;/p&gt;
 </p>
 
-</div>
-
-<div class="HTML" id="org3524f71">
 <p>
-&lt;p&gt;
-&lt;u&gt;Institute for the Protection and Security of the Citizen (IPSC), Joint Research Centre (JRC), European Commission&lt;/u&gt; &lt;br&gt;
-Ispra, Italia &lt;br&gt;
-01/10/2011 - 31/03/2012 &lt;br&gt;
-&lt;a href="<a href="https://web.archive.org/web/20130916005425/http://ipsc.jrc.ec.europa.eu/">https://web.archive.org/web/20130916005425/http://ipsc.jrc.ec.europa.eu/</a>" target="_blank" title="Institute for the Protection and Security of the Citizen (IPSC)"&gt;Institute for the Protection and Security of the Citizen (IPSC)&lt;/a&gt; &lt;br&gt;
+<u>Institute for the Protection and Security of the Citizen (IPSC), Joint Research Centre (JRC), European Commission</u> <br>
+Ispra, Italia <br>
+01/10/2011 - 31/03/2012 <br>
+<a href="https://web.archive.org/web/20130916005425/http://ipsc.jrc.ec.europa.eu/" target="_blank" title="Institute for the Protection and Security of the Citizen (IPSC)">Institute for the Protection and Security of the Citizen (IPSC)</a> <br>
 PLC-en programen deskripzioan oinarritutako sareko trafikoaren modeloak sortzen dituen algoritmo baten diseinu, inplementazio eta balidazioa. Sare industrialetako sareko fluxu normalari eragiten dien esperimentu errealen bidez sare industrialetan DoS erasoek erabiltzaileen jardueran duen eraginaren ikerketa.
 Helburu hauetarako, Emulab-en oinarritutako Experimental Platform for Internet Contingencies (EPIC) laborategian hainbat esperimentu garatu dira. Gainera, ICS/SCADA osagaiak (PLCak eta HMIak) programatu dira hainbat prozesu industrial jarraituz, aipaturiko ikerketa aurrera eramateko laborategia martxan jartzeko asmoz.
-&lt;/p&gt;
 </p>
-
 </div>
+</div>
+
+<div id="outline-container-training" class="outline-3">
+<h3 id="training">Education</h3>
+<div class="outline-text-3" id="text-training">
+</div>
+
+<div id="outline-container-orga2c7a93" class="outline-4">
+<h4 id="orga2c7a93">Postdoctoral position/grants</h4>
+<div class="outline-text-4" id="text-orga2c7a93">
+</div>
+<ul class="org-ul">
+<li><a id="orgc40794e"></a><span class="underline">Security, Privacy and Dependability IoT metrics</span>, <a href="http://www.mn.uio.no/its/english/">Universitetssenteret på Kjeller (UNIK)</a> (Norway), 2014-2015<br /></li>
+
+<li><a id="org19d7c07"></a><span class="underline">IIoT security</span>, Mondragon Unibertsitatea, 2018-2019<br />
+<div class="outline-text-5" id="text-org19d7c07">
+<ul class="org-ul">
+<li>Grant
+<ul class="org-ul">
+<li><a href="https://www.incibe.es/en/grants-advanced-cybersecurity-research-team-excellence">Grants for advanced cybersecurity research team excellence</a></li>
+<li>Institution: <a href="https://www.incibe.es/en/">National Cybersecurity Institute (INCIBE)</a></li>
+<li>Reference: INCIBEI-201527367</li>
+</ul></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+
+<div id="outline-container-org26ff842" class="outline-4">
+<h4 id="org26ff842">PhD</h4>
+<div class="outline-text-4" id="text-org26ff842">
+</div>
+<ul class="org-ul">
+<li><a id="org41cc4c9"></a><span class="underline">Behavioral Modeling for Anomaly Detection in Industrial Control Systems</span> (<a href="variable/publications/igaritano2014phd.pdf">PDF</a>), Mondragon Unibertsitatea, 2014/02/14<br />
+<div class="outline-text-5" id="text-org41cc4c9">
+<ul class="org-ul">
+<li>Directors: <a href="https://www.mondragon.edu/eu/unibertsitate-masterra-energia-potentzia-elektronika/irakaslegoa/-/profesor/roberto-uribeetxeberria-ezpeleta">Roberto Uribeetxeberria</a> eta <a href="https://www.mondragon.edu/eu/ikerketa-transferentzia/kooperatibismoa/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/investigador/urko-zurutuza-ortega">Urko Zurutuza</a></li>
+<li>Grant program
+<ul class="org-ul">
+<li><a href="https://www.euskadi.eus/informacion/ayudas-al-personal-investigador-programa-predoctoral/web01-a3predoc/es/">Carrera investigadora. Programa Predoctoral</a></li>
+<li>Institution: <a href="https://www.euskadi.eus/basque-government/department-education/">Eusko Jaurlaritza. Department of Education.</a></li>
+<li>Reference: BFI05.454</li>
+</ul></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+
+<div id="outline-container-org628df1c" class="outline-4">
+<h4 id="org628df1c">MSc and BSc</h4>
+<div class="outline-text-4" id="text-org628df1c">
+</div>
+<ul class="org-ul">
+<li><a id="org0c51c73"></a><span class="underline">Master on Information and Communication Technologies</span>, Mondragon Unibertsitatea, 2011/09/05<br /></li>
+
+<li><a id="orgd8c6097"></a><a href="https://web.archive.org/web/20070827040902/http://www.mondragon.edu/ikasketak/ingenieritza/telekomunikazioetan-ingeniaritza"><span class="underline">MSc Telecommunication Engineering</span></a>, Mondragon Unibertsitatea, 2009/09/22<br /></li>
+
+<li><a id="orgb5c288f"></a><a href="https://web.archive.org/web/20030218223342/http://www.mondragon.edu/bin/tusestudios/cursos_eusk.asp?campus=1&amp;codtit=M2IT&amp;insti=M"><span class="underline">BSc Telecommunication Engineering, Telematics</span></a>, Mondragon Unibertsitatea, 2006/07/06<br /></li>
+</ul>
 </div>
 </div>
 </div>
@@ -607,53 +438,38 @@ Helburu hauetarako, Emulab-en oinarritutako Experimental Platform for Internet C
 <div id="outline-container-contact" class="outline-2">
 <h2 id="contact">Contact</h2>
 <div class="outline-text-2" id="text-contact">
-<div class="HTML" id="org145fb66">
-<p>
-&lt;a href="<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano">https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano</a>" target="_blank" title="Iñaki Garitano"&gt;Iñaki Garitano&lt;/a&gt; &lt;br&gt;
-&lt;a href="<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity">https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity</a>" target="_blank" title="Data Analysis and Cybersecurity research team"&gt;Data Analysis and Cybersecurity&lt;/a&gt; &lt;br&gt;
-Electronics and Computing Department &lt;br&gt;
-Mondragon University - Faculty of Engineering &lt;br&gt;
-Goiru, 2; E-20500 Arrasate - Mondragón (Gipuzkoa), Spain &lt;br&gt;
-Phone: +(34) 647503682 / +(34) 943794700 + Ext. 8119 &lt;br&gt;
-&lt;a href="<a href="http://www.mondragon.edu/en/">http://www.mondragon.edu/en/</a>" target="_blank" title="Mondragon Unibertsitatea"&gt;www.mondragon.edu&lt;/a&gt; / &lt;a href="<a href="http://www.garitano.info">http://www.garitano.info</a>" target="_blank" title="Iñaki Garitano"&gt;www.garitano.info&lt;/a&gt; &lt;br&gt;
-&lt;br&gt;
-&lt;div id="top"&gt;
-</p>
+<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
+<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity" target="_blank" title="Data Analysis and Cybersecurity research team">Data Analysis and Cybersecurity</a> <br>
+Electronics and Computer Science Department <br>
+Mondragon Unibertsitatea - Faculty of Engineering <br>
+Goiru, 2; E-20500 Arrasate - Mondragón (Gipuzkoa), Spain <br>
+Phone: +(34) 647503682 / +(34) 943794700 + Ext. 8119 <br>
+<a href="http://www.mondragon.edu/en/" target="_blank" title="Mondragon Unibertsitatea">www.mondragon.edu</a> / <a href="http://www.garitano.info" target="_blank" title="Iñaki Garitano">www.garitano.info</a> <br>
+<br>
+<div id="top">
 
+<div class="social_media_icon"><a href="https://scholar.google.com/citations?user=yJDv6rMAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://www.researchgate.net/profile/Inaki_Garitano" target="_blank" title="ResearchGate"><i class="ai ai-researchgate ai-2x"></i></a></div>
+<div class="social_media_icon"><a href="http://orcid.org/0000-0002-0387-9167" target="_blank" title="Orcid"><i class="ai ai-orcid ai-2x"></i></a></div>
+<div class="social_media_icon"><a href="http://dblp.org/pid/12/10094" target="_blank" title="dblp"><i class="ai ai-dblp ai-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://www.linkedin.com/in/igaritano" target="_blank" title="LinkedIn"><i class="fa fa-linkedin fa-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://www.slideshare.net/igaritano" target="_blank" title="SlideShare"><i class="fa fa-slideshare fa-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://github.com/igaritano" target="_blank" title="GitHub"><i class="fa fa-github fa-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://bitbucket.org/igaritano/" target="_blank" title="Bitbucket"><i class="fa fa-bitbucket fa-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://twitter.com/igaritano" target="_blank" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://www.pinterest.com/igaritano/" target="_blank" title="Pinterest"><i class="fa fa-pinterest fa-2x"></i></a></div>
+<div class="social_media_icon"><a href="https://www.flickr.com/igflickr/" target="_blank" title="Flickr"><i class="fa fa-flickr fa-2x"></i></a></div>
+
+<br>
+<br>
+<a href="#">top</a>
 </div>
-
-<div class="HTML" id="orgffbabea">
-<p>
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://scholar.google.com/citations?user=yJDv6rMAAAAJ&amp;hl=en">https://scholar.google.com/citations?user=yJDv6rMAAAAJ&amp;hl=en</a>" target="_blank" title="Google Scholar"&gt;&lt;i class="ai ai-google-scholar ai-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://www.researchgate.net/profile/Inaki_Garitano">https://www.researchgate.net/profile/Inaki_Garitano</a>" target="_blank" title="ResearchGate"&gt;&lt;i class="ai ai-researchgate ai-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="http://orcid.org/0000-0002-0387-9167">http://orcid.org/0000-0002-0387-9167</a>" target="_blank" title="Orcid"&gt;&lt;i class="ai ai-orcid ai-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="http://dblp.org/pid/12/10094">http://dblp.org/pid/12/10094</a>" target="_blank" title="dblp"&gt;&lt;i class="ai ai-dblp ai-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://www.linkedin.com/in/igaritano">https://www.linkedin.com/in/igaritano</a>" target="_blank" title="LinkedIn"&gt;&lt;i class="fa fa-linkedin fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://www.slideshare.net/igaritano">https://www.slideshare.net/igaritano</a>" target="_blank" title="SlideShare"&gt;&lt;i class="fa fa-slideshare fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://github.com/igaritano">https://github.com/igaritano</a>" target="_blank" title="GitHub"&gt;&lt;i class="fa fa-github fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://bitbucket.org/igaritano/">https://bitbucket.org/igaritano/</a>" target="_blank" title="Bitbucket"&gt;&lt;i class="fa fa-bitbucket fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://twitter.com/igaritano">https://twitter.com/igaritano</a>" target="_blank" title="Twitter"&gt;&lt;i class="fa fa-twitter fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://www.pinterest.com/igaritano/">https://www.pinterest.com/igaritano/</a>" target="_blank" title="Pinterest"&gt;&lt;i class="fa fa-pinterest fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-&lt;div class="social_media_icon"&gt;&lt;a href="<a href="https://www.flickr.com/igflickr/">https://www.flickr.com/igflickr/</a>" target="_blank" title="Flickr"&gt;&lt;i class="fa fa-flickr fa-2x"&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
-</p>
-
-</div>
-
-<div class="HTML" id="org1f31073">
-<p>
-&lt;br&gt;
-&lt;br&gt;
-&lt;a href="#"&gt;top&lt;/a&gt;
-&lt;/div&gt;
-&lt;br&gt;
-</p>
-
-</div>
+<br>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Date: 2023-04-09</p>
+<p class="date">Date: 2023-04-10</p>
 <p class="author">Author: Iñaki Garitano</p>
 </div>
 </body>

@@ -1,4 +1,4 @@
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <p>
 <u>UNIK – Universitetssenteret på Kjeller</u> <br>
 Kjeller, Norvegia<br>
@@ -6,9 +6,9 @@ Kjeller, Norvegia<br>
 <a href="http://www.unik.no" target="_blank" title="Universitetssenteret på Kjeller">Universitetssenteret på Kjeller</a> <br>
 Postdoc.
 </p>
-#+END_HTML
+#+END_EXPORT
 
-#+BEGIN_HTML 
+#+BEGIN_EXPORT html
 <p>
 <u>Institute for the Protection and Security of the Citizen (IPSC), Joint Research Centre (JRC), European Commission</u> <br>
 Ispra, Italia <br>
@@ -17,4 +17,4 @@ Ispra, Italia <br>
 PLC-en programen deskripzioan oinarritutako sareko trafikoaren modeloak sortzen dituen algoritmo baten diseinu, inplementazio eta balidazioa. Sare industrialetako sareko fluxu normalari eragiten dien esperimentu errealen bidez sare industrialetan DoS erasoek erabiltzaileen jardueran duen eraginaren ikerketa.
 Helburu hauetarako, Emulab-en oinarritutako Experimental Platform for Internet Contingencies (EPIC) laborategian hainbat esperimentu garatu dira. Gainera, ICS/SCADA osagaiak (PLCak eta HMIak) programatu dira hainbat prozesu industrial jarraituz, aipaturiko ikerketa aurrera eramateko laborategia martxan jartzeko asmoz.
 </p>
-#+END_HTML
+#+END_EXPORT

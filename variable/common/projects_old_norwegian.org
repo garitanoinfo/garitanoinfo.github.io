@@ -1,3 +1,10 @@
+ - [[http://its-wiki.no/wiki/DigI:Home][DigI]] - _Non-discriminating access for Digital Inclusion_.
+   - Ref. 267558/H30. 2017-01-01/2020-09-30.
+   - 20.1 MNOK. 10 partners / 8 countries.
+   - Main outcomes:
+     - Piloting "free access to information ([[http://its-wiki.no/wiki/InfoInternet][InfoInternet]])" and assessing the impact of [[http://its-wiki.no/wiki/InfoInternet][InfoInternet]]
+     - Digital Health Spot in Tanzania, Phase A: 3 villages
+     - Digital Service Spot in DR Congo, Phase A: 2 villages
  - [[http://gravidpluss.no/][GravidPluss]].
    - 2014-04-03/2015-03-31.
  - [[http://www.citi-sense-mob.eu/][Citi-Sense-MOB]]. EMMIA (European Mobile and Mobility Industries Alliance).

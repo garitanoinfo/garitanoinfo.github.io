@@ -1,2 +1,2 @@
- - Dani Reguera Bakhache. _Data-driven framework for optimizing Human-Computer Interaction_
- - Markel Sainz Oruna. _Software Defined Networking Approaches for Security in Industrial Control Systems_
+ - [[https://aaalongueira.github.io/][Ángel Longueira-Romero]]. _Cybersecurity Evaluation Methodology for Industrial Embedded Components_
+ - [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza/irakaslegoa/-/profesor/daniel-reguera-bakhache][Daniel Reguera Bakhache]]. _Data-driven framework for optimizing Human-Computer Interaction_

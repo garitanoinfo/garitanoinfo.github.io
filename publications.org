@@ -1,9 +1,9 @@
-#+INCLUDE: "static/language_specific/publications_title.org" :minlevel 1
+#+INCLUDE: "static/language_specific/publications_title.org" :minlevel 2
 
-#+INCLUDE: "static/language_specific/publications_skeleton_profiles.org" :minlevel 2
+#+INCLUDE: "static/language_specific/publications_skeleton_profiles.org" :minlevel 3
 
-#+INCLUDE: "static/common/publications_profiles.org" :minlevel 2
+#+INCLUDE: "static/common/publications_profiles.org" :minlevel 3
 
-#+INCLUDE: "variable/common/publications_list.org" :minlevel 2
+#+INCLUDE: "variable/common/publications_list.org" :minlevel 3
 
-#+INCLUDE: "static/language_specific/publications_skeleton_old.org" :minlevel 2
+#+INCLUDE: "static/language_specific/publications_skeleton_old.org" :minlevel 3

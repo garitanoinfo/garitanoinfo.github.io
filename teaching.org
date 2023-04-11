@@ -12,4 +12,8 @@
 
 #+INCLUDE: "variable/common/teaching_bsc_msc.org" :minlevel 2
 
+#+INCLUDE: "static/language_specific/teaching_skeleton_advised_students.org" :minlevel 2
+
+#+INCLUDE: "variable/common/teaching_advised_students.org" :minlevel 2
+
 #+INCLUDE: "static/language_specific/teaching_skeleton_old.org" :minlevel 2

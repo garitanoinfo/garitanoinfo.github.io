@@ -6,6 +6,7 @@
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+OPTIONS: toc:nil num:nil ^:nil timestamp:nil
+#+OPTIONS: html-style:nil
 #+MACRO: toc #+toc: headlines 1
 #+LANGUAGE: en
 #+STARTUP: hideblocks

@@ -4,11 +4,7 @@
 
 #+INCLUDE: "description.org" :minlevel 1
 
-#+INCLUDE: "publications.org" :minlevel 1
-
-#+INCLUDE: "media.org" :minlevel 1
-
-#+INCLUDE: "projects.org" :minlevel 1
+#+INCLUDE: "research_activities.org" :minlevel 1
 
 #+INCLUDE: "teaching.org" :minlevel 1
 

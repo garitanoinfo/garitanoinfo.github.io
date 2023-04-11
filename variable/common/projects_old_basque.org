@@ -1,3 +1,22 @@
+ - CYBERPRE - _Cybersegurtasunerako gaitasun osoa_
+   - Elkartek. Ref. KK-2018/00076. 2018-07-01/2019-12-31.
+ - KRON4ALL
+   - Hazitek.
+ - TRASCODA - _Análisis de los trastornos conductuales y psicológicos en la demencia (TCPS): prevalencia y carga económica_
+   - DFG I+D. 2018-05-01/2019-09-30.
+ - SEKUTEK - _Segurtasun teknologiak_
+   - Elkartek. Ref. KK-2017/00044. 2017-03-01/2018-12-31.
+ - OMEGA3+ - _Motor de Procesamiento de Lenguaje Natural para el Enriquecimiento de Datos Sanitarios_
+   - Elkartek. Ref. KK-2018/00039. 2018-03-01/2018-12-31.
+ - SISI - _Sistemas Inteligentes para Sistemas Industriales._
+   - Grupos de Investigación. Ref. IT886-16. 2016-01-01/2018-12-31.
+ - EDAR 4.0 - _Gestión Energética Integral e Inteligente de la EDAR._
+   - Hazitek estratégico. Ref. ZE-2016/00020. 2016-07/2018-12.
+ - OPTIMUS - _Solución Integral de Analítica Avanzada de Datos para una Gestión y Asistencia Sanitaria Óptima._
+   - Hazitek Competitivo. Ref. ZL-2016/00910. 2016-04-01/2018-12-31.
+   - Big Data bihotzaren zerbitzura / Big Data al servicio del corazón
+     - [[http://teknopolis.elhuyar.eus/erreportaiak/big-data-bihotzaren-zerbitzura/][Teknopolis(eu)]] / [[http://teknopolis.elhuyar.eus/reportajes/big-data-al-servicio-del-corazon/][Teknopolis(es)]]
+     - [[http://www.eitb.tv/es/video/teknopolis-eu--2017-2018/5938/137342/bihotza-teknologiaren-jomuga/][EITB(eu)]] / [[http://www.eitb.tv/es/video/teknopolis-es--2015-2016/5309/105590/tecnologia/][EITB(es)]]
  - POSIC - _Nuevas aproximaciones para tecnologías de Ciberseguridad Industrial_
    - DFG I+D. Ref. Exp. 93/17. 2017-05-01/2018-09-30.
  - OMEGA-3 - _Motor de Procesamiento de Lenguaje Natural para el Enriquecimiento de Datos Sanitarios_

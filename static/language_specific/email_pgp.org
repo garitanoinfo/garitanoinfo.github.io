@@ -1,8 +1,8 @@
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <div id="email">
 (en | <a href="http://www.garitano.eus/" title="Basque">eu</a>)&nbsp;&nbsp;igaritano-at-{garitano-dot-org/mondragon-dot-edu}
 </div>
-
+<!--
 <div id="pgp">
 <table>
 <tr>
@@ -15,4 +15,5 @@
 </tr>
 </table>
 </div>
-#+END_HTML
+-->
+#+END_EXPORT

@@ -1,8 +1,16 @@
-- [[https://www.mondragon.edu/en/master-degree-biomedical-technologies][Master's Degree in Biomedical Technologies]]. Mondragon Unibertsitatea.
-  - Bioinformatics and data analysis. 2018-2019.
+- [[https://www.mondragon.edu/en/master-degree-data-analysis-cybersecurity-cloud-computing][Master's Degree in Data Analysis, Cybersecurity and Cloud Computing.]] Mondragon Unibertsitatea.
+  - Infrastructure and Network Security. 2020-2021.
+  - Data Intelligence. 2020-2021.
+  - Infrastructures and Systems. 2020-2021.
 
+
+- [[https://www.mondragon.edu/en/master-degree-biomedical-technologies][Master's Degree in Biomedical Technologies.]] Mondragon Unibertsitatea.
+  - Bioinformatics and data analysis. 2020-2021.
+
+		
 - [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Master's Degree in Cybersecurity]]. Mondragon Unibertsitatea.
-  - Software security. 2018-2019.
+  - Software security. 2020-2021.
+
 
 - [[https://www.mondragon.edu/en/bachelor-degree-computer-engineering][Bachelor's Degree in Computer Engineering]]. Mondragon Unibertsitatea.
-  - Infrastructure and Systems. 2018-2019.
+  - Infrastructures and Systems. 2020-2021.
