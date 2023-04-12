@@ -14,7 +14,7 @@
    - As Work and Study Sharing intern under VARIoT public funding European research project. Mondragon Unibertsitatea. 2021-2022
  - Oier Elortza Payros. _Design and Development of an Industrial Process Testbed._
 	 - As Work and Study Sharing intern, Mondragon Unibertsitatea. 2021-2022
- - Oihana Leiza Alzuart.
+ - Oihana Leiza Alzuart.  _Estudio de la Plataforma de Análisis De Datos KNIME Analytics Platform._
    - As work and study sharing intern for Nafarroako Gobernua. 2020-2021
  - Unai Ramos Arizti. _Tecnologías DLT ligeras para IIoT_
    - As work and study sharing intern for Ikerlan S.Coop. 2020-2021
