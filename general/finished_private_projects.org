@@ -1,4 +1,0 @@
- - [[http://www.basicinternet.org][Basic Internet]] - _Basic Internet._
-   - 2015-04-13/2016-07-31.
- - SECSI - _SEguridad de Copreci para Sus comunicaciones Industriales._
-   - 2016-04-01/2016-05-31.

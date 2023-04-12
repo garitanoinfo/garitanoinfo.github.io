@@ -1,6 +1,0 @@
- - [[https://mc-suite.eu/][MC-SUITE]] - _ICT Powered Machining Software Suite._
-   - H2020-FoF-2015. Ref. 680478. 2015-10-01/2018-09-30.
- - [[http://mantis-project.eu/][MANTIS]] - _Cyber Physical System based Proactive Collaborative Maintenance._
-   - ECSEL-2014-1. Ref. 662189. 2015-05-01/2018-04-30.
- - [[http://www.newshield.eu/][nSHIELD]] - _The new SHIELD Architectural Framework for Security, Privacy and Dependability._
-   - ARTEMIS-JU Call 2010. Ref. 269317. 2011-09/2014-12.

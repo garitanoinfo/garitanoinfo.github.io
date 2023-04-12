@@ -1,4 +1,0 @@
-* Stays in foreign research centers
-:PROPERTIES:
-:CUSTOM_ID: stays_abroad
-:END:

@@ -1,4 +1,0 @@
-* Background
-:PROPERTIES:
-:CUSTOM_ID: background
-:END:

@@ -1,0 +1,54 @@
+ - Unai Ramos Arizti. _Implantación de DLTs Tipo DAG en Entornos IIoT._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2022
+ - Joseba Carnicero Padilla. _Zibersegurtasun Proiektua Fagor Ederlaneko Fabriketan._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2022
+ - Markel Baskaran Gogenola. _IoT Malware Kanpainetako Kanpo Agente Portaeren Arteko Ikerketa._
+	 - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2022
+ - Asier De La Natividad Mohacho.
+	 - As Work and Study Sharing intern, Hijos de Juan de Garay. 2021-2022
+ - Aitor Landa Arrue. _Securing Service Orchestrators in 5G Networks._
+	 - As Work and Study Sharing intern, Ikerlan. 2021-2022
+ - Asier Guerricagoitia Epelde.
+	 - As Work and Study Sharing intern, Mondragon Unibertsitatea. 2021-2022
+ - Ekaitz Casado. _Fuzzing for Fingerprinting._
+   - As Work and Study Sharing intern under VARIoT public funding European research project. Mondragon Unibertsitatea. 2021-2022
+ - Oier Elortza Payros. _Design and Development of an Industrial Process Testbed._
+	 - As Work and Study Sharing intern, Mondragon Unibertsitatea. 2021-2022
+ - Oihana Leiza Alzuart.
+   - As work and study sharing intern for Nafarroako Gobernua. 2020-2021
+ - Unai Ramos Arizti. _Tecnologías DLT ligeras para IIoT_
+   - As work and study sharing intern for Ikerlan S.Coop. 2020-2021
+ - Iñigo Ortega Martinez. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_
+   - As work and study sharing intern under VARIoT public funding European research project. Mondragon Unibertsitatea. 2020-2021
+ - [[http://xetxezarreta.com/][Xabier Etxezarreta Argarate]]. _Software Defined Networking approaches for Intrusion detection and response in Industrial Control Systems_
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2021
+ - [[https://xgandiaga.com/][Xabier Gandiaga Iriondo]]. _Hardware emulation for dynamic malware analysis on IoT devices_
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2021
+ - Imanol Rubio Unanue. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_
+	 - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2021
+ - Mikel Amuchastegui Zubizarreta. _Lamassu - PKI para IoT_
+   - As work and study sharing intern for Indaba, LKS S.Coop. 2019-2020
+ - Imanol Rubio Unanue. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_
+   - As work and study sharing intern under VARIoT public funding European research project. 2019-2020
+ - Beñat Apaolaza Diaz. _Safety and Security event management system deployment_
+   - For /Master's Degree in Cybersecurity./ 2018
+ - Mikel Tamayo Rodriguez. _Cybersecurity for Installations_
+   - For /Master's Degree in Cybersecurity./ 2018
+ - Julen Balzategui Oruna. _Advanced Analytics in Digital Image Processing_
+   - For /Master's Degree in Embedded Systems./ 2018
+ - Leire Abarrategui Martinez. _Data Analysis for Health Learning System_
+   - For /Bachelor's Degree in Biomedical Engineering by Mondragon Unibertsitatea./ 2018
+ - Oier Saizar Ugarte. _Fine Grained Access Control and Data Cipher for Apache Hadoop Ecosystem_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2018
+ - Mikel Retolaza Coranti. _Data collection, Analysis and Visualization development and Infrastructure Management_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2018
+ - Mikel Amuchastegui Zubizarreta. _EDAR 4.0 - Gestión Energética Integral e Inteligente de la EDAR_
+   - As work and study sharing intern under EDAR 4.0 public funding research project. 2016-2017
+ - Aitor Osa Larrabe. _Detección de anomalías de las fuentes de datos y de los datos Big Data_
+   - As work and study sharing intern under BID3ABI public funding research project. 2016-2017
+ - Unai Izagirre Azpitarte. _Datuen bilketa, analisi eta bistarapenendako garapen eta azpiegituren ku'deaketa_
+   - As work and study sharing intern under Plenisense and Central Cloud public funding research projects. 2016-2017
+ - Unai Izagirre Azpitarte. _Seguridad y Optimización de Comunicaciones Industriales_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2016
+ - Sergio Bryan Moreno Maciel. _CWMP para Dispositivos IoT, Automatización y Gestión Remota_
+   - For /Bachelor's Degree in Computer Engineering by Mondragon Unibertsitatea./ 2016

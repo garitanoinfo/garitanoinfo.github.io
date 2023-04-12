@@ -1,4 +1,0 @@
-* Publications
-:PROPERTIES:
-:CUSTOM_ID: publications
-:END:

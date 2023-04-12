@@ -1,0 +1,11 @@
+#+BEGIN_EXPORT html
+<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
+<a href="https://www.mondragon.edu/en/research-transfer/engineering-technology/research-and-transfer-groups/-/mu-inv-mapping/group/data-analysis-and-cybersecurity" target="_blank" title="Data Analysis and Cybersecurity research team">Data Analysis and Cybersecurity</a> <br>
+Electronics and Computer Science Department <br>
+Mondragon Unibertsitatea - Faculty of Engineering <br>
+Goiru, 2; E-20500 Arrasate - Mondragón (Gipuzkoa), Spain <br>
+Phone: +(34) 647503682 / +(34) 943794700 + Ext. 8119 <br>
+<a href="http://www.mondragon.edu/en/" target="_blank" title="Mondragon Unibertsitatea">www.mondragon.edu</a> / <a href="http://www.garitano.info" target="_blank" title="Iñaki Garitano">www.garitano.info</a> <br>
+<br>
+<div id="top">
+#+END_EXPORT

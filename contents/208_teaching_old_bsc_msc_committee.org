@@ -1,0 +1,66 @@
+ - Antton Puy Aramburu. _Function Filtering Tool for Static Analysis of Binaries._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2023
+ - Manex Galparsoro Maiz. _Ataques Adversarios y su Efecto en Sistemas de Clasificación Basados en Redes Neuronales._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2023
+ - Ainhoa Veramendi Pérez. _Análisis de Canal Lateral (Side-Channel Analysis) de Algoritmos Criptográficos en Laboratorio._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2023
+ - Julen Pérez López. _Mejoras al Laboratorio de Ciberseguridad de Producto en una Empresa del Sector de la Energía._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2023
+ - Maitane Araujo González. _JAKIN, an Eye Tracking Tool for Neurological Research._
+   - For Master's Degree in /Biomedical Technology/ by Mondragon Unibertsitatea. 2023
+ - Xabier Mugica Iturbe. _Detección de Patologías Maculares en OCT, Enfoque Centrado en los Datos._
+	 - For Master's Degree in /Biomedical Technology/ by Mondragon Unibertsitatea. 2023
+ - Iker Orive Múgica. _SmartPit_
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2022
+ - Iñigo Ortega Martinez. _Análisis, Despliegue, Monitorización y Explotación de una Solución SIEM/SOC de Cobertura Global Mediante la Correlación de Eventos, Análisis de los Mismos y Automatización de las Acciones._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2022
+ - Mikel Amuchastegui Zubizarreta. _Producto para Securizar los Despliegues IoT._
+	 - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2021
+ - Laura San Martin Beltran de Guevara. _Qualitative and Quantitative Analysis of Leap Motion Performance as the Alternative for Keyboard and Mouse._
+   - For Bachelor's Degree in /Biomedical Engineering/ by Mondragon Unibertsitatea. 2020
+ - Pablo Gimenez Lallana. _Analysis of Myo Armband Usability and Accessibility as the Alternative for Keyboard and Mouse._
+   - For Bachelor's Degree in /Biomedical Engineering/ by Mondragon Unibertsitatea. 2020
+ - Markel Garcia Gómez. _Biomimética Inteligente para Regeneración de Tejidos_
+   - For Master's Degree in /Biomedical Technologies/ by Mondragon Unibertsitatea. 2020
+ - Asier Mutuberria Mindeguia. _Implantación Sealpath_
+   - For Master's Degree in /Cibersecurity/ by Mondragon Unibertsitatea. 2019
+ - Ander Garmendia
+   - For Master's Degree in /Cibersecurity/ by Mondragon Unibertsitatea. 2019
+ - Mikel Amuchastegui Zubizarreta. _Arquitecturas seguras en cloud para monitorización y procesamiento de datos de EDAR_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2019
+ - Joanes Plazaola Madinabeitia. _Machine Learning-aren demokratizazioa: erabilera masiborako ikasketa automatikodun tekniken aukeraketa eta inplementazioa_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2019
+ - Alex Gainza Cintero. _Desarrollo de una planta de gestión de datos de procesos industriales con herramientas open source_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2019
+ - Jorge Gonzalez
+   - For Master's Degree in /Cibersecurity/ by Mondragon Unibertsitatea. 2019
+ - Carlos Lacasa
+   - For Master's Degree in /Cibersecurity/ by Mondragon Unibertsitatea. 2019
+ - Garazi Artola Balda. _Using semantic web technologies for semantic validation of computer interpretable guidelines_
+   - For Master's Degree in /Biomedical Technologies/ by Mondragon Unibertsitatea. 2019
+ - Miguel Portela Ares.
+   - For Master's Degree in /Cibersecurity/ by Mondragon Unibertsitatea. 2018
+ - Ana Carrasco Menoyo. _Implantación de Plataforma "Field Service Solution" para el Registro y Gestión de Incidencias_
+   - For Bachelor's Degree in /Biomedical Engineering/ by Mondragon Unibertsitatea. 2018
+ - Gorka Olalde Mendia. _About the Quality of Randomness on the TOR Network_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2017
+ - Ander Gabilondo Intxaurraga. _Optimizing Machinery Maintenance Using Attribute Oriented Induction for Root Cause Analysis_
+   - For Master's Degree in /Embedded Systems/ by Mondragon Unibertsitatea. 2017
+ - Markel Sainz Oruna. _Software Defined Networking Approaches for Security in Industrial Control Systems_
+   - For Master's Degree in /Embedded Systems/ by Mondragon Unibertsitatea. 2017
+ - Unai Gorostegui Gabiria. _Automatic Integration of Cyber Physical Condition Monitoring Systems as part of Computerized Maintenance Management Systems_
+   - For Master's Degree in /Embedded Systems/ by Mondragon Unibertsitatea. 2017
+ - Maria Estibaliz Arambarri Cincunegui. _Improving The Pattern Learning System Integrating The Reasoning System_
+ - For Bachelor's Degree in /Biomedical Engineering/ by Mondragon Unibertsitatea. 2017
+ - Mikel Mateo Mesonero. _Weight Control Application For People With Down Syndrome Based On Activity Monitoring_
+ - For Bachelor's Degree in /Biomedical Engineering/ by Mondragon Unibertsitatea. 2017
+ - Jon Zarate Andres. _Load-Time Randomization for Low-End Embedded Systems_ (Intel)
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2016
+ - David Fuentes Iglesias _Colaboración Ciclo de Vida Software del Framework de Desarrollo de Aplicaciones Web AWE_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2016
+ - Borja Unda Arriola. _Migración del Producto FIT a una Plataforma Web_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2016
+ - Mario de Jesus Lozano Gonzalez. _Análisis y Prototipo de OpenStack: Plataforma para la Genaración de Clouds_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2016
+ - Eriz Lopetegi Fernandez. _Txantiloi Biometrikoen Babesa Enkriptazio Homomorfikoa erabiliz_
+   - For Bachelor's Degree in /Computer Engineering/ by Mondragon Unibertsitatea. 2015

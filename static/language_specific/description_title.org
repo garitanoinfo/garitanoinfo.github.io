@@ -1,4 +1,0 @@
-* Summary
-:PROPERTIES:
-:CUSTOM_ID: description
-:END:

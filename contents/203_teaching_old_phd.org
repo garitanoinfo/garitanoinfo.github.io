@@ -1,0 +1,4 @@
+ - [[https://aaalongueira.github.io/][Ángel Longueira-Romero]]. _Cybersecurity Evaluation Methodology for Industrial Embedded Components._ 2022/09/08 ([[../publications/longueiraromero2022cybersecurityevaluation.pdf][PDF]], [[../publications/longueiraromero2022cybersecurityevaluation.pptx][Slides]])
+ - [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza/irakaslegoa/-/profesor/daniel-reguera-bakhache][Daniel Reguera Bakhache]]. _Metodologías Data-Driven para Optimizar la Interacción Persona-Máquina en Escenarios Industriales._ 2021/09/17 ([[../publications/reguera2021metodologias.pdf][PDF]])
+ - Markel Sainz Oruna. _Software Defined Networking Approaches for Security in Industrial Control Systems._ (discontinued)
+ - Javier Fernandez Anakabe. _Intensive Data-Driven Approaches to Aid in Decision-Making of Proactive Maintenance._ (director changed)

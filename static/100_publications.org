@@ -1,0 +1,9 @@
+#+INCLUDE: "101_publications_title.org" :minlevel 2
+
+#+INCLUDE: "102_publications_skeleton_profiles.org" :minlevel 3
+
+#+INCLUDE: "../contents/102_publications_profiles.org" :minlevel 3
+
+#+INCLUDE: "../contents/100_publications_list.org" :minlevel 3
+
+#+INCLUDE: "104_publications_skeleton_old.org" :minlevel 3

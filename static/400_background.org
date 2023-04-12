@@ -1,0 +1,10 @@
+#+INCLUDE: "401_background_title.org" :minlevel 1
+
+#+ATTR_HTML: target="_blank" title="LinkedIn"
+[[https://www.linkedin.com/in/igaritano][LinkedIn]]
+
+#+INCLUDE: "402_background_skeleton_stays_abroad.org" :minlevel 2
+
+#+INCLUDE: "../contents/401_background_stays_abroad.org" :minlevel 2
+
+#+INCLUDE: "../contents/400_background_training.org" :minlevel 2

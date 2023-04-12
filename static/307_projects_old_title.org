@@ -1,0 +1,10 @@
+#+BEGIN_EXPORT html
+<style>
+h3 {
+  font-size: 1em;
+  border: none;
+  margin-bottom: 0em; }
+</style>
+#+END_EXPORT
+
+* Finished projects

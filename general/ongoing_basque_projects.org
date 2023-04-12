@@ -1,8 +1,0 @@
- - SEKUTEK - _Segurtasun teknologiak_
-   - Elkartek. Ref. KK-2017/00044. 2017-03-01/2018-12-31.
- - SISI - _Sistemas Inteligentes para Sistemas Industriales._
-   - Grupos de Investigación. Ref. IT886-16. 2016-01-01/2018-12-31.
- - EDAR 4.0 - _Gestión Energética Integral e Inteligente de la EDAR._
-   - Hazitek estratégico. Ref. ZE-2016/00020. 2016-07/2018-12.
- - OPTIMUS - _Solución Integral de Analítica Avanzada de Datos para una Gestión y Asistencia Sanitaria Óptima._
-   - Hazitek Competitivo. Ref. ZL-2016/00910. 2016-04-01/2018-12-31.

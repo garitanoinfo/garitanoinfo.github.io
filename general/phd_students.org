@@ -1,2 +1,0 @@
- - Dani Reguera Bakhache. _Data-driven framework for optimizing Human-Computer Interaction_
- - Markel Sainz Oruna. _Software Defined Networking Approaches for Security in Industrial Control Systems_

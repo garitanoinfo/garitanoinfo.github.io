@@ -1,4 +1,0 @@
-* Media
-:PROPERTIES:
-:CUSTOM_ID: media
-:END:

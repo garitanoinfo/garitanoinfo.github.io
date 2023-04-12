@@ -1,0 +1,25 @@
+#+INCLUDE: "301_projects_title.org" :minlevel 2
+
+#+INCLUDE: "302_projects_skeleton_europe.org" :minlevel 3
+
+#+INCLUDE: "../contents/300_projects_european.org" :minlevel 3
+
+#+BEGIN_COMMENT
+#+INCLUDE: "303_projects_skeleton_nfr.org" :minlevel 3
+
+#+INCLUDE: "../contents/302_projects_nfr.org" :minlevel 3
+
+#+INCLUDE: "304_projects_skeleton_national.org" :minlevel 3
+
+#+INCLUDE: "../contents/304_projects_national.org" :minlevel 3
+
+#+INCLUDE: "305_projects_skeleton_basque.org" :minlevel 3
+
+#+INCLUDE: "../contents/306_projects_basque.org" :minlevel 3
+#+END_COMMENT
+
+#+INCLUDE: "306_projects_skeleton_private.org" :minlevel 3
+
+#+INCLUDE: "../contents/308_projects_private.org" :minlevel 3
+
+#+INCLUDE: "308_projects_skeleton_old.org" :minlevel 3

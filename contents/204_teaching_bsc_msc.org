@@ -1,0 +1,4 @@
+ - Aitor Landa Arrue. _Securing Service Orchestrators in 5G Networks._
+   - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2023
+ - Asier Guerricagoitia Epelde. _Amazon Athena vs Redshift: Evaluación y Optimización de la Arquitectura de Datos de Orona._
+   - For Master's Degree in /Data Analysis, Cybersecurity and Cloud Computing/ by Mondragon Unibertsitatea. 2023

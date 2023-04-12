@@ -1,5 +1,0 @@
-#+INCLUDE: "static/language_specific/media_title.org" :minlevel 1
-
-#+INCLUDE: "static/language_specific/media_skeleton_teknopolis.org" :minlevel 2
-
-#+INCLUDE: "variable/language_specific/media_teknopolis.org" :minlevel 2

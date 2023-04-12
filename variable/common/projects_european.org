@@ -1,2 +1,0 @@
- - [[https://www.variot.eu/][VARIoT]] - _Vulnerability and Attack Repository for IoT._
-   - Connecting Europe Facility, TENtec n. 28263632. 2019-07-01/2022-06-30.

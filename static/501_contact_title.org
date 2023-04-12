@@ -1,0 +1,4 @@
+* Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:

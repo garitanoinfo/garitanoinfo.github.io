@@ -1,0 +1,19 @@
+#+INCLUDE: "201_teaching_title.org" :minlevel 1
+
+#+INCLUDE: "202_teaching_skeleton_subjects.org" :minlevel 2
+
+#+INCLUDE: "../contents/200_teaching_subjects.org" :minlevel 2
+
+#+INCLUDE: "203_teaching_skeleton_phd.org" :minlevel 2
+
+#+INCLUDE: "../contents/202_teaching_phd.org" :minlevel 2
+
+#+INCLUDE: "204_teaching_skeleton_bsc_msc.org" :minlevel 2
+
+#+INCLUDE: "../contents/204_teaching_bsc_msc.org" :minlevel 2
+
+#+INCLUDE: "205_teaching_skeleton_advised_students.org" :minlevel 2
+
+#+INCLUDE: "../contents/205_teaching_advised_students.org" :minlevel 2
+
+#+INCLUDE: "209_teaching_skeleton_old.org" :minlevel 2

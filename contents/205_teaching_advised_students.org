@@ -1,0 +1,4 @@
+ - Oier Elortza Payros. _Application Container security._
+   - As Work and Study Sharing intern, Mondragon Unibertsitatea. 2022-2023
+ - Oihana	Garcia Anacabe. _Soporte en Desarrollo de Plataformas IoT Tekniker._
+   - As Work and Study Sharing intern for Fundación Tekniker. 2022-2023

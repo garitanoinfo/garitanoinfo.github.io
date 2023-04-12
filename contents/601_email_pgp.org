@@ -1,0 +1,19 @@
+#+BEGIN_EXPORT html
+<div id="email">
+(en | <a href="http://www.garitano.eus/" title="Basque">eu</a>)&nbsp;&nbsp;igaritano-at-{garitano-dot-org/mondragon-dot-edu}
+</div>
+<!--
+<div id="pgp">
+<table>
+<tr>
+<td><a href="contact/igaritano_professional_gpg_key.txt" title="Professional PGP Key"><tt>Professional: </tt></a></td>
+<td><a href="contact/igaritano_professional_gpg_key.txt" title="Professional PGP Key"><tt>CF7E 3CFC 2F58 7499 FEA2 D0DB 0E7B CF45 0892 57A6</tt></a></td>
+</tr>
+<tr>
+<td><a href="contact/igaritano_personal_gpg_key.txt" title="Personal PGP Key"><tt>Personal: </tt></a></td>
+<td><a href="contact/igaritano_personal_gpg_key.txt" title="Personal PGP Key"><tt>1BD1 A4B0 DB15 341D B2AC DFD8 A1FE D344 49D2 88AE</tt></a></td>
+</tr>
+</table>
+</div>
+-->
+#+END_EXPORT

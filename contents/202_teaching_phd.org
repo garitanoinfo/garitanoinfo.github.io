@@ -1,0 +1,2 @@
+ - [[http://xetxezarreta.com/][Xabier Etxezarreta]]. _Software Defined Networking Approaches for Intrusion Detection and Response in Industrial Control Systems._
+ - [[https://xgandiaga.com/][Xabier Gandiaga]]. _New Directions for IoT Malware Detection and Analysis._

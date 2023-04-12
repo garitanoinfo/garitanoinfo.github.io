@@ -1,17 +1,17 @@
-#+INCLUDE: "header.org" :minlevel 1
+#+INCLUDE: "static/800_header.org" :minlevel 1
 
-#+INCLUDE: "title.org" :minlevel 1
+#+INCLUDE: "static/600_title.org" :minlevel 1
 
-#+INCLUDE: "description.org" :minlevel 1
+#+INCLUDE: "static/601_description.org" :minlevel 1
 
-#+INCLUDE: "research_activities.org" :minlevel 1
+#+INCLUDE: "static/802_research_activities.org" :minlevel 1
 
-#+INCLUDE: "teaching.org" :minlevel 1
+#+INCLUDE: "static/200_teaching.org" :minlevel 1
 
-#+INCLUDE: "background.org" :minlevel 1
+#+INCLUDE: "static/400_background.org" :minlevel 1
 
-#+INCLUDE: "contact.org" :minlevel 1
+#+INCLUDE: "static/500_contact.org" :minlevel 1
 
-#+INCLUDE: "social_media.org" :minlevel 1
+#+INCLUDE: "static/503_social_media.org" :minlevel 1
 
-#+INCLUDE: "static/language_specific/begin.org" :minlevel 1
+#+INCLUDE: "static/804_begin.org" :minlevel 1

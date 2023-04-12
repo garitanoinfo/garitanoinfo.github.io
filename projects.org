@@ -1,23 +1,33 @@
-#+INCLUDE: "static/language_specific/projects_title.org" :minlevel 2
+#+INCLUDE: "static/800_header.org" :minlevel 1
 
-#+INCLUDE: "static/language_specific/projects_skeleton_europe.org" :minlevel 3
+#+INCLUDE: "static/307_projects_old_title.org" :minlevel 1
 
-#+INCLUDE: "variable/common/projects_european.org" :minlevel 3
+#+INCLUDE: "static/302_projects_skeleton_europe.org" :minlevel 2
 
-#+BEGIN_COMMENT
-#+INCLUDE: "static/language_specific/projects_skeleton_nfr.org" :minlevel 3
+#+INCLUDE: "contents/301_projects_old_european.org" :minlevel 2
 
-#+INCLUDE: "variable/common/projects_nfr.org" :minlevel 3
-#+END_COMMENT
+#+INCLUDE: "static/303_projects_skeleton_nfr.org" :minlevel 2
 
-#+INCLUDE: "static/language_specific/projects_skeleton_basque.org" :minlevel 3
+#+INCLUDE: "contents/303_projects_old_nfr.org" :minlevel 2
 
-#+INCLUDE: "variable/common/projects_basque.org" :minlevel 3
+#+INCLUDE: "static/304_projects_skeleton_national.org" :minlevel 2
 
-#+BEGIN_COMMENT
-#+INCLUDE: "static/language_specific/projects_skeleton_private.org" :minlevel 3
+#+INCLUDE: "contents/305_projects_old_national.org" :minlevel 2
 
-#+INCLUDE: "variable/common/projects_private.org" :minlevel 3
-#+END_COMMENT
+#+INCLUDE: "static/305_projects_skeleton_basque.org" :minlevel 2
 
-#+INCLUDE: "static/language_specific/projects_skeleton_old.org" :minlevel 3
+#+INCLUDE: "contents/307_projects_old_basque.org" :minlevel 2
+
+#+INCLUDE: "static/306_projects_skeleton_private.org" :minlevel 2
+
+#+INCLUDE: "contents/309_projects_old_private.org" :minlevel 2
+
+#+HTML: <br> <div id="top">
+
+#+INCLUDE: "static/503_social_media.org" :minlevel 1
+
+#+HTML: <br>
+
+#+INCLUDE: "static/805_back.org" :minlevel 1
+
+#+HTML: </div> <br>

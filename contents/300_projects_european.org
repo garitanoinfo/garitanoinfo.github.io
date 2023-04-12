@@ -1,0 +1,2 @@
+ - [[https://www.idunnproject.eu/][IDUNN]] - _A Cognitive Detection System for Cybersecure Operational Technologies._
+	 - H2020, H2020-SU-DS-2020, grant agreement 101021911.

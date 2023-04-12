@@ -1,3 +1,0 @@
-#+INCLUDE: "static/language_specific/description_title.org" :minlevel 1
-
-#+INCLUDE: "variable/language_specific/description_bio.org" :minlevel 1

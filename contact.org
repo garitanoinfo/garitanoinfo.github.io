@@ -1,3 +1,0 @@
-#+INCLUDE: "static/language_specific/contact_title.org" :minlevel 1
-
-#+INCLUDE: "static/language_specific/contact_link.org" :minlevel 1
