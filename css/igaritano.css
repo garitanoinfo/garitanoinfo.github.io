@@ -2,7 +2,7 @@ body {
     border: 0em;
     border-color: #000000;
     border-style: solid;
-    min-width: 43em;
+    min-width: 28em;
     position: relative;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 0.9em;
@@ -147,3 +147,36 @@ h4 {
 .social_media_icon {
     display: inline-block;
     width: 2.2em; }
+
+@media screen and (max-width: 48.75em) {
+
+		body {
+				position: absolute; }
+		
+		#email {
+				top: 2.8em; }
+
+		#pgp {
+				top: 3.8em; }
+
+		.custom_title {
+				margin-left: 0em; }
+		
+		.custom_title p {
+				position: absolute;
+				top: 0em;
+				margin: 0em;
+				border-bottom-style: none; }
+
+		.figure {
+				margin-top: -2.0em; }
+
+		#table-of-contents {
+				display: none; }
+
+		#foundations {
+				display: none; }
+
+		#outline-container-description {
+				margin-top: 5.0em; }
+}
