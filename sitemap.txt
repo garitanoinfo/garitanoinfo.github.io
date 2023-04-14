@@ -1,4 +1,4 @@
 http://www.garitano.info/index.html
-http://www.garitano.info/teaching_old.html
-http://www.garitano.info/projects_old.html
-http://www.garitano.info/publications_old.html
+http://www.garitano.info/teaching.html
+http://www.garitano.info/projects.html
+http://www.garitano.info/publications.html
