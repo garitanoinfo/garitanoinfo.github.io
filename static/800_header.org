@@ -2,7 +2,7 @@
 #+AUTHOR: Iñaki Garitano
 #+DATE: {{{time(%Y-%m-%d)}}}
 #+INCLUDE: "801_header_description.org" :minlevel 1
-#+KEYWORDS: garitano, personal, cybersecurity, security, data science, machine learning, data analysis, bigdata
+#+KEYWORDS: garitano, cybersecurity, data science
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+OPTIONS: toc:nil num:nil ^:nil timestamp:nil
@@ -10,6 +10,7 @@
 #+MACRO: toc #+toc: headlines 1
 #+LANGUAGE: en
 #+STARTUP: hideblocks
+#+HTML_HEAD: <base target="_blank">
 #+HTML_HEAD: <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
 #+HTML_HEAD: <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
 #+HTML_HEAD: <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">
