@@ -17,7 +17,7 @@
 ** PhD
 
 *** _Behavioral Modeling for Anomaly Detection in Industrial Control Systems_ ([[../publications/igaritano2014phd.pdf][PDF]]), Mondragon Unibertsitatea, 2014/02/14
- - Directors: [[https://www.mondragon.edu/eu/unibertsitate-masterra-energia-potentzia-elektronika/irakaslegoa/-/profesor/roberto-uribeetxeberria-ezpeleta][Roberto Uribeetxeberria]] eta [[https://www.mondragon.edu/eu/ikerketa-transferentzia/kooperatibismoa/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/investigador/urko-zurutuza-ortega][Urko Zurutuza]]
+ - Supervisors: [[https://www.mondragon.edu/eu/unibertsitate-masterra-energia-potentzia-elektronika/irakaslegoa/-/profesor/roberto-uribeetxeberria-ezpeleta][Roberto Uribeetxeberria]] eta [[https://www.mondragon.edu/eu/ikerketa-transferentzia/kooperatibismoa/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/investigador/urko-zurutuza-ortega][Urko Zurutuza]]
  - Grant program
    - [[https://www.euskadi.eus/informacion/ayudas-al-personal-investigador-programa-predoctoral/web01-a3predoc/es/][Carrera investigadora. Programa Predoctoral]]
    - Institution: [[https://www.euskadi.eus/basque-government/department-education/][Eusko Jaurlaritza. Department of Education.]]

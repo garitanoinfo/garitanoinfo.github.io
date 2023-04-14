@@ -10,7 +10,7 @@
 #+MACRO: toc #+toc: headlines 1
 #+LANGUAGE: en
 #+STARTUP: hideblocks
-#+HTML_HEAD: <base target="_blank">
+<!--#+HTML_HEAD: <base target="_blank">-->
 #+HTML_HEAD: <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-icon-57x57.png">
 #+HTML_HEAD: <link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-icon-60x60.png">
 #+HTML_HEAD: <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-icon-72x72.png">
